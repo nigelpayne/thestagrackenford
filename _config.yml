@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: eat@thestagdevon.co.uk
 description: A new site
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: tweetsofpayne
 github_username: nigelpayne
 telephone: '01884 881755'
