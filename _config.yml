@@ -1,0 +1,33 @@
+---
+title: The Stag Rackenford - Gastropub
+timezone: Europe/London
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: default
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+email: eat@thestagdevon.co.uk
+description: A new site
+baseurl: 
+url: 
+twitter_username: tweetsofpayne
+github_username: nigelpayne
+telephone: '01884 881755'
+theme: minima
+plugins:
+- jekyll-feed
+sass:
+  sass_dir: assets/css/

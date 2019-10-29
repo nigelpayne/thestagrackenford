@@ -1,0 +1,19 @@
+---
+permalink: "/events/"
+layout: default
+header: With everything we do, we aim to create an exquisite dining and drinking experience
+---
+
+<h3>Set in the heart of the Devon countryside, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century. Restored and now run by Steve and Oliver, both are passionate about serving freshly prepared great tasting
+  food and locally sourced drinks.</h3>
+
+
+{% for post in site.posts %}
+
+<a href="{{ post.url }}">
+  <h2>{{ post.title }}</h2>
+  <p>{{ post.date-of-event }}</p>
+  <p>Read more</p>
+</a>
+
+{% endfor %}
