@@ -1,9 +1,9 @@
 <header>
   <nav>
-    <a href="/about/">About</a>
-    <a href="/events/">What&rsquo;s on</a>
-    <a href="/food/">Food</a>
-    <a href="/gallery/">Gallery</a>
+    <a href="/about/" {% if page.url == "/about/" %} class="selected" {% endif %}>About</a>
+    <a href="/events/" {% if page.url == "/events/" %} class="selected" {% endif %}>What&rsquo;s on</a>
+    <a href="/food/" {% if page.url == "/food/" %} class="selected" {% endif %}>Food</a>
+    <a href="/gallery/" {% if page.url == "/gallery/" %} class="selected" {% endif %}>Gallery</a>
   </nav>
 
   <h1>

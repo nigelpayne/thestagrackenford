@@ -122,6 +122,10 @@ header nav a:hover::after {
   width: 100%;
 }
 
+header nav a.selected:after {
+  width: 100%;
+}
+
 header div.contact-details {
   text-align: right;
 }
