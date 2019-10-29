@@ -1,5 +1,6 @@
 ---
-title:  Valentines Night Dinner
+title: Valentines Night Dinner
+date: 2019-10-20 00:00:00 Z
 date-of-event: Friday 14th February
 ---
 
