@@ -149,9 +149,6 @@ section.hero {
   height: 100vh;
   overflow: hidden;
   /* display: block; */
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
 }
 
 section.hero:before {
@@ -174,17 +171,29 @@ section.hero:before {
   z-index: 1;
 }
 
-section.hero h2 {
+section.hero.about:before {
+  background-image: url('../img/the-stag-old.jpg');
+}
+
+section.hero span {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  width: 100%;
+  padding: 0 140px;
   z-index: 2;
+  transform: translate(-50%, -50%);
+}
+
+section.hero h2 {
   font-size: 46px;
-  padding: 160px 140px 40px;
+  margin-bottom: 24px;
   font-family: ltc-caslon-pro, serif;
   font-weight: 400;
   font-style: normal;
 }
 
 section.hero a.tell-me-more {
-  z-index: 2;
   font-family: gill-sans-nova, sans-serif;
   text-decoration: none;
   color: #ffffff;
@@ -205,10 +214,11 @@ section.hero a.tell-me-more:hover {
 /* INTRO */
 section.intro {
   text-align: center;
+  padding: 30px 19%;
 }
 .intro img {
   width: 300px;
-  margin: 30px auto 0;
+  margin: 0 auto;
 }
 
 .intro h3 {
@@ -216,8 +226,6 @@ section.intro {
   font-weight: 400;
   font-style: normal;
   font-size: 24px;
-  padding: 30px 19%;
-  text-align: center;
 }
 
 /* information */
@@ -317,8 +325,12 @@ section.content h4 {
   margin-bottom: 12px;
 }
 
-section.content img.content-image {
-  margin: 60px 0;
+section.content img {
+  margin: 30px auto;
+}
+section.content img.roundel {
+  margin: 0;
+  width: 120px;
 }
 
 /* FOOTER */

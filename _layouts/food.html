@@ -1,53 +1,22 @@
-<!doctype html>
-<html>
+---
+layout: default
+---
 
-<head>
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>{{ site.title }}</title>
-	<meta name="description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon.">
-	<link rel="icon" href="/assets/img/favicon-32x32.png">
-	<meta name="theme-color" content="#812024">
-	<!-- <meta name="twitter:card" content="summary_large_image">
-	    <meta name="twitter:site" content="@thestagrackenford">
-	    <meta name="twitter:title" content="The Stag Rackenford">
-	    <meta name="twitter:description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century.">
-	    <meta name="twitter:image" content="https://www.thestagdevon.co.uk/the-stag-rackenford.jpg"> -->
-	<meta property="og:title" content="{{ site.title }}">
-	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.thestagdevon.co.uk/">
-	<meta property="og:description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century.">
-	<meta property="og:image" content="/assets/img/the-stag-rackenford.jpg">
-	<link rel="stylesheet" href="/assets/css/app.css">
-</head>
+<section class="hero">
 
-<body>
-
-  {% include header.html %}
-
-	<section class="hero">
-
+	<span>
 		<h2>
 			{{ page.title }}
 		</h2>
 
 		<a href="#intro" class="tell-me-more">View our menus <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
 				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
-	</section>
+	</span>
 
-	<section class="intro" id="intro">
+</section>
 
-			{{ content }}
+<section class="intro" id="intro">
 
-	</section>
+		{{ content }}
 
-  {% include footer.html %}
-
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
-	<script src="/assets/js/headroom.min.js"></script>
-	<script src="/assets/js/main.js"></script>
-
-</body>
-
-</html>
+</section>
