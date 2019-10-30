@@ -3,7 +3,7 @@ title: With everything we do, we aim to create an exquisite dining and drinking 
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |-
-  [The-Stag-Rackenford-Roundel.svg](/uploads/The-Stag-Rackenford-Roundel.svg =120x)
+  ![The-Stag-Rackenford-Roundel.svg](/uploads/The-Stag-Rackenford-Roundel.svg)
 
   ### We can host your next event
 
