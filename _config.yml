@@ -5,6 +5,7 @@ collections:
   events:
     title: Events
     output: true
+    permalink: events
   posts:
     title: Posts
     output: true
