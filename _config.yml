@@ -58,7 +58,7 @@ reservations_text: Please call 01884 881755 to reserve a table.
 location_text: |-
   Devon, EX16 8DT.
   Find us just off the A361, the North Devon Link Road.
-  View on Google Maps
+  [View on Google Maps](https://goo.gl/maps/3fejJabqST38Rr4J8)
 theme: minima
 plugins:
 - jekyll-feed
