@@ -12,7 +12,8 @@ collections:
     permalink: gallery
   menus:
     title: Menus
-    output: true
+    output: false
+    permalink: menus
   posts:
     title: Posts
     output: true
