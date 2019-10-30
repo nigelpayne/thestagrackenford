@@ -1,13 +1,13 @@
 ---
 title: Gallery
 permalink: "/gallery/"
-layout: default
+layout: gallery
 ---
 
 {% for gallery in site.gallery %}
 
-  <h2>{{ event.title }}</h2>
-  <p>{{ event.date-of-event }}</p>
+  <h2>{{ gallery.title }}</h2>
+  <p>{{ gallery.image }}</p>
   <p>Read more</p>
 
 {% endfor %}

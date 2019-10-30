@@ -4,6 +4,7 @@ title: |-
   for you from scratch
 date: 2019-10-30 09:56:00 +00:00
 permalink: "/food/"
+layout: food
 content:
   header: content header
   text: content text
