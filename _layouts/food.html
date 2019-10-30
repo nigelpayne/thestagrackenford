@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="hero">
+<section class="hero food">
 
 	<span>
 		<h2>
@@ -15,8 +15,19 @@ layout: default
 
 </section>
 
-<section class="intro" id="intro">
+<section class="content" id="intro">
 
 		{{ content }}
 
 </section>
+
+{% for menu in site.menus %}
+
+<div>
+
+	<h2>{{ menu.title }}</h2>
+
+	{{ menu.content | markdownify}}
+</div>
+
+{% endfor %}
