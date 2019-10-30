@@ -2,7 +2,7 @@
 title: With everything we do, we aim to create an exquisite dining and drinking experience
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
-content-text: |-
+content-text: |2-
 
   ### We can host your next event
 
