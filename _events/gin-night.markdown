@@ -2,6 +2,7 @@
 title: Gin Night
 date: 2019-10-29 00:00:00 +00:00
 date-of-event: Saturday 9th November
+featured-image: 
 ---
 
 Five gins and food for £30, hosted by our very own Mistress of Gin, Katie Partridge. If you are interested, please book a ticket or email us.
