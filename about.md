@@ -19,8 +19,33 @@ content:
 layout: about
 ---
 
+Main text block 
+
 Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+
+# Heading 1
 
 ## Heading 2
 
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
 Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
+
+**Some bold text**
+
+*Some italic text*
+
+* a list
+* a another list item
+
+1. ordered list
+2. another ordered list item
+
+[and a link](nigelpayne.co.uk)
+
+> Quote block
+
