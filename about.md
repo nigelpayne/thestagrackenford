@@ -1,11 +1,26 @@
 ---
-title: About
+title: The Stag then and now
 permalink: "/about/"
 header-image: image would go here
-header-text: The Stag then and now
+then:
+  image: 
+  caption: Cobbled tunnel which sheep used to be herded through to the yard.
+now:
+  image: 
+  caption: Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla
+    non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum.
+content:
+  header: Tales of Rackenford
+  text: |-
+    Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna.
+
+    Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+  video-url: https://www.youtube.com/watch?v=-lD4YEQjEgk
 layout: about
 ---
 
 Cras mattis consectetur purus sit amet fermentum. Donec id elit non mi porta gravida at eget metus. Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum. Vestibulum id ligula porta felis euismod semper. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+
+## Heading 2
 
 Curabitur blandit tempus porttitor. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas faucibus mollis interdum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
