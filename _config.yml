@@ -42,7 +42,13 @@ url:
 twitter_username: tweetsofpayne
 telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
-opening_times_text: 
+opening_times_text: |-
+  Wednesday - Saturday
+  12:00 - 15:00
+  18:00 - 23:00
+
+  Sunday
+  12:00 - 16:00
 theme: minima
 plugins:
 - jekyll-feed
