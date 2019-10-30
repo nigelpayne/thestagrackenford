@@ -21,9 +21,10 @@ layout: default
 
 </section>
 
+<section class="menus">
 {% for menu in site.menus %}
 
-<div>
+<div class="menu">
 
 	<h2>{{ menu.title }}</h2>
 
@@ -31,3 +32,26 @@ layout: default
 </div>
 
 {% endfor %}
+</section>
+
+<section>
+	<h3>{{ page.food-content.header }}</h3>
+	{{ page.food-content.text | markdownify}}
+	<img src="{{ page.food-content.image }}" alt="{{ page.food-content.header }}">
+</section>
+
+<section class="suppliers">
+{% for supplier in site.suppliers %}
+
+<div class="supplier">
+
+	<img src="{{ supplier.image }}" alt="{{ supplier.title }}">
+
+	<h3>{{ supplier.title }}</h3>
+
+</div>
+
+{% endfor %}
+</section>
+
+<a href="/events/" class="endpagelink">Upcoming events</a>
