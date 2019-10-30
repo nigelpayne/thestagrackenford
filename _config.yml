@@ -14,6 +14,9 @@ collections:
     title: Menus
     output: false
     permalink: menus
+  posts:
+    title: Posts
+    output: true
   suppliers:
     title: Suppliers
     output: false
@@ -33,8 +36,8 @@ defaults:
     layout: event
 email: eat@thestagdevon.co.uk
 description: A new site
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: tweetsofpayne
 telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
