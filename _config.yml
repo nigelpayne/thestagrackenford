@@ -9,6 +9,7 @@ collections:
   gallery:
     title: Gallery
     output: false
+    permalink: gallery
   menus:
     title: Menus
     output: true
