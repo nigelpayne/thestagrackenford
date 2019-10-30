@@ -1,0 +1,88 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>{{ site.title }}</title>
+	<meta name="description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon.">
+	<link rel="icon" href="/assets/img/favicon-32x32.png">
+	<meta name="theme-color" content="#812024">
+	<!-- <meta name="twitter:card" content="summary_large_image">
+	    <meta name="twitter:site" content="@thestagrackenford">
+	    <meta name="twitter:title" content="The Stag Rackenford">
+	    <meta name="twitter:description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century.">
+	    <meta name="twitter:image" content="https://www.thestagdevon.co.uk/the-stag-rackenford.jpg"> -->
+	<meta property="og:title" content="{{ site.title }}">
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://www.thestagdevon.co.uk/">
+	<meta property="og:description" content="Set in the heart of the Devon countryside, just off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century.">
+	<meta property="og:image" content="/assets/img/the-stag-rackenford.jpg">
+	<link rel="stylesheet" href="/assets/css/app.css">
+</head>
+
+<body>
+
+  {% include header.html %}
+
+	<section class="hero">
+
+		<h2>
+			{{ page.title }}
+		</h2>
+
+		<a href="#intro" class="tell-me-more">Tell me more <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
+	</section>
+
+	<section class="intro" id="intro">
+
+			{{ content }}
+
+	</section>
+
+	<section class="information">
+		<div>
+			<h4>Opening times</h4>
+			{{ site.opening_times_text | markdownify}}
+		</div>
+		<div>
+			<h4>Reservations</h4>
+			{{ site.reservations_text | markdownify}}
+		</div>
+		<div>
+			<h4>Location</h4>
+			{{ site.location_text | markdownify}}
+		</div>
+	</section>
+
+	<section class="large-nav">
+		<a href="/food/" class="red-bg"><img src="/assets/img/our-menus.jpg" alt=""><span>Our menus</span></a>
+		<a href="/about/" class="blue-bg"><img src="/assets/img/stag-then-and-now.jpg" alt=""><span>Then and now</span></a>
+		<a href="/events/" class="green-bg"><img src="/assets/img/upcoming-events.jpg" alt=""><span>Upcoming events</span></a>
+	</section>
+
+	<section class="content">
+
+		<img src="/assets/img/The-Stag-Rackenford-Roundel.svg" alt="The Stag" width="120" height="120">
+		<h3>We can host your next event</h3>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisifwcing elit, sed do eiusmod tempor incididunt
+			ut labore et dolore roipi magna aliqua. Ut enim ad minim veeniam, quis nostruklad exercitation
+			ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+			in tufpoy voluptate velit esse cillum dolore eu fugiat nulla parieratur. Excepteur sint.</p>
+
+		<p><a href="mailto:events@thestagdevon.co.uk">events@thestagdevon.co.uk</a></p>
+		<img src="/assets/img/events-at-the-stag-rackenford.jpg" alt="Events at The Stag Rackenford" class="content-image">
+
+	</section>
+
+  {% include footer.html %}
+
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
+	<script src="/assets/js/headroom.min.js"></script>
+	<script src="/assets/js/main.js"></script>
+
+</body>
+
+</html>

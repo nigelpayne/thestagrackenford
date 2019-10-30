@@ -2,7 +2,7 @@
 title: With everything we do, we aim to create an exquisite dining and drinking experience
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
-layout: default
+layout: home
 ---
 
 ![the-stag-building.png](/uploads/the-stag-building.png)

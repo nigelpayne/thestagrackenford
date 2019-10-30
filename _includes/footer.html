@@ -3,36 +3,26 @@
   <div class="container">
     <div class="column">
       <h5>The Stag Rackenford</h5>
-      <p>Rumoured to be the oldest pub in Devon.
-        TripAdvisor Certificate of Excellence 2019.
-        Dog friendly.</p>
+      {{ site.footer_description_text | markdownify}}
     </div>
 
     <div class="column">
       <h5>Location</h5>
-      <p>Devon, EX16 8DT.</p>
-
-      <p>Find us just off the A361,
-        the North Devon Link Road.</p>
-
-      <p><a href="https://goo.gl/maps/3fejJabqST38Rr4J8">View on Google Maps</a></p>
+      {{ site.location_text | markdownify}}
     </div>
 
     <div class="column">
       <h5>Opening Times</h5>
-      <p>Wednesday - Saturday<br>
-        12:00 - 15:00<br>
-        18:00 - 23:00</p>
-      <p>Sunday<br>
-        12:00 - 16:00</p>
+      {{ site.opening_times_text | markdownify}}
     </div>
 
     <div class="column">
       <h5>Follow us</h5>
       <ul class="social-links">
-        <li><a href=""><img src="/assets/img/icon/facebook.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Facebook"> Facebook</a></li>
-        <li><a href=""><img src="/assets/img/icon/instagram.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Instagram"> Instagram</a></li>
-        <li><a href=""><img src="/assets/img/icon/tripadvisor.svg" width="24" height="24" class="icon" alt="The Stag Rackenford TripAdvisor"> TripAdvisor</a></li>
+        <li><a href="{{ site.facebook_url }}"><img src="/assets/img/icon/facebook.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Facebook"> Facebook</a></li>
+        <li><a href="{{ site.twitter_url }}"><img src="/assets/img/icon/twitter.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Twitter"> Twitter</a></li>
+        <li><a href="{{ site.instagram_url }}"><img src="/assets/img/icon/instagram.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Instagram"> Instagram</a></li>
+        <li><a href="{{ site.tripadvisor_url }}"><img src="/assets/img/icon/tripadvisor.svg" width="24" height="24" class="icon" alt="The Stag Rackenford TripAdvisor"> TripAdvisor</a></li>
       </ul>
     </div>
   </div>
