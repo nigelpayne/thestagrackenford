@@ -1,6 +1,6 @@
 ---
 title: Gin Night
-date: 2019-10-29 00:00:00 Z
+date: 2019-10-29 00:00:00 +00:00
 date-of-event: Saturday 9th November
 ---
 

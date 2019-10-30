@@ -2,6 +2,9 @@
 title: The Stag Rackenford - Gastropub
 timezone: Europe/London
 collections:
+  events:
+    title: Events
+    output: true
   posts:
     title: Posts
     output: true

@@ -1,6 +1,6 @@
 ---
 title: Burns Night
-date: 2019-10-25 00:00:00 Z
+date: 2019-10-25 01:00:00 +01:00
 date-of-event: Saturday 25th January
 ---
 
