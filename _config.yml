@@ -10,6 +10,9 @@ collections:
     text: The colder months are here, which means the aroma of wood fires and mulled
       wine. Our winter programme is packed with entertainment from the very best live
       music in Devon to quiz nights and community orientated events.
+  menus:
+    title: Menus
+    output: true
   posts:
     title: Posts
     output: true
