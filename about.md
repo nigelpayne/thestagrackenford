@@ -2,10 +2,11 @@
 title: The Stag then and now
 permalink: "/about/"
 header-image: image would go here
-then-text: "### Then  \nCobbled tunnel which sheep used to be herded through to the
-  yard."
-now-text: "### Now  \nDonec id elit non mi porta gravida at eget metus. Donec ullamcorper
-  nulla\nnon metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum."
+then-text: "### Then  \n\nCobbled tunnel which sheep used to be herded through to
+  the yard."
+now-text: "### Now  \n\n![the-stag-modern-restoration.jpg](/uploads/the-stag-modern-restoration.jpg)\n\nDonec
+  id elit non mi porta gravida at eget metus. Donec ullamcorper nulla\nnon metus auctor
+  fringilla. Cras mattis consectetur purus sit amet fermentum."
 about-content:
   header: Tales of Rackenford
   text: |-
