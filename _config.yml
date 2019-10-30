@@ -32,13 +32,13 @@ defaults:
     layout: event
 - scope:
     path: ''
-    type: "gallery"
+    type: gallery
   values:
     layout: event
 email: eat@thestagdevon.co.uk
 description: A new site
-baseurl:
-url:
+baseurl: 
+url: 
 twitter_username: tweetsofpayne
 telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
