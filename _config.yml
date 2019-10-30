@@ -6,9 +6,6 @@ collections:
     title: Events
     output: true
     permalink: events
-  posts:
-    title: Events
-    output: true
   gallery:
     title: Gallery
     output: false
@@ -17,6 +14,9 @@ collections:
     title: Menus
     output: false
     permalink: menus
+  posts:
+    title: Posts
+    output: true
   suppliers:
     title: Suppliers
     output: false
