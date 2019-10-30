@@ -2,19 +2,19 @@
 layout: default
 ---
 
-<section class="hero">
+<section class="hero event">
 	<span>
 		<h2>
 			{{ page.title }}
 		</h2>
 
-		<a href="#intro" class="tell-me-more">Tell me more <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+		<a href="#intro" class="tell-me-more">View now <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
 				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
 	</span>
 
 </section>
 
-<section class="content">
+<section class="content" id="intro">
 
 	{{ content }}
 
@@ -22,10 +22,12 @@ layout: default
 
 {% for event in site.posts %}
 
-<a href="{{ event.url }}">
+<div>
+	<h3>{{ event.date-of-event }}</h3>
+
 	<h2>{{ event.title }}</h2>
-	<p>{{ event.date-of-event }}</p>
-	<p>Read more</p>
-</a>
+
+	{{ event.content | markdownify}}
+</div>
 
 {% endfor %}
