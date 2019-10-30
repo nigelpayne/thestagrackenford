@@ -17,6 +17,23 @@ layout: default
 
 <section class="intro" id="intro">
 
-		{{ content }}
+	{{ content }}
 
 </section>
+
+<section>
+	<div>
+		{{ page.then-text | markdownify}}
+	</div>
+	<div>
+		{{ page.now-text | markdownify}}
+	</div>
+</section>
+
+<section>
+	<h3>{{ page.about-content.header }}</h3>
+	{{ page.about-content.text | markdownify}}
+	<p>{{ page.about-content.video-url }}</p>
+</section>
+
+<a href="/food/">Our menus</a>
