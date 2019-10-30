@@ -3,10 +3,10 @@ title: The Stag then and now
 permalink: "/about/"
 header-image: image would go here
 then:
-  image:
+  image: 
   caption: Cobbled tunnel which sheep used to be herded through to the yard.
 now:
-  image:
+  image: 
   caption: Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla
     non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum.
 content:
