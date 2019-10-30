@@ -2,6 +2,7 @@
 title: Home
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
+layout: default
 ---
 
 ![the-stag-building.png](/uploads/the-stag-building.png)
