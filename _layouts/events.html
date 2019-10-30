@@ -29,7 +29,7 @@
 	<section class="hero">
 
 		<h2>
-			With everything we do, we aim to create an exquisite dining and drinking experience
+			{{ page.title }}
 		</h2>
 
 		<a href="#intro" class="tell-me-more">Tell me more <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
@@ -41,6 +41,17 @@
 		{{ content }}
 
 	</section>
+
+
+	{% for event in site.events %}
+
+	<a href="{{ post.url }}">
+	  <h2>{{ event.title }}</h2>
+	  <p>{{ event.date-of-event }}</p>
+	  <p>Read more</p>
+	</a>
+
+	{% endfor %}
 
   {% include footer.html %}
 

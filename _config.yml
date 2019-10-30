@@ -14,12 +14,9 @@ collections:
     title: Menus
     output: false
     permalink: menus
-  posts:
-    title: Posts
-    output: true
   suppliers:
     title: Suppliers
-    output: true
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -31,16 +28,16 @@ defaults:
     layout: default
 - scope:
     path: ''
-    type: posts
+    type: events
   values:
-    layout: post
+    layout: event
 email: eat@thestagdevon.co.uk
 description: A new site
-baseurl: 
-url: 
+baseurl:
+url:
 twitter_username: tweetsofpayne
-github_username: nigelpayne
 telephone: '01884 881755'
+email_address: eat@thestagdevon.co.uk
 theme: minima
 plugins:
 - jekyll-feed
