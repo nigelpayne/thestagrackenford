@@ -214,6 +214,27 @@ section.hero a.tell-me-more:hover {
   opacity: 0.6;
 }
 
+section.container {
+  display: flex;
+  padding: 60px;
+  text-align: center;
+  background: #F4E6B1;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+section.container .column {
+  width: 47%;
+}
+
+section.container .column h3 {
+  text-transform: uppercase;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
 /* INTRO */
 section.intro {
   text-align: center;
