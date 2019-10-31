@@ -30,10 +30,13 @@ layout: default
 	</div>
 </section>
 
-<section>
+<section class="content">
 	<h3>{{ page.about-content.header }}</h3>
 	{{ page.about-content.text | markdownify}}
-	<p>{{ page.about-content.video-url }}</p>
+
+	<div class="videoWrapper">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.about-content.youtube-video-id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 </section>
 
 <a href="/food/" class="endpagelink">Our menus</a>

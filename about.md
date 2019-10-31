@@ -2,18 +2,18 @@
 title: The Stag then and now
 permalink: "/about/"
 header-image: image would go here
-then-text: "### Then  \n\n![the-stag-cobbled-tunnel.jpg](/uploads/the-stag-cobbled-tunnel.jpg)\n\nCobbled
+then-text: "![the-stag-cobbled-tunnel.jpg](/uploads/the-stag-cobbled-tunnel.jpg)\n\n### Then  \n\nCobbled
   tunnel which sheep used to be herded through to the yard."
-now-text: "### Now  \n\n![the-stag-modern-restoration.jpg](/uploads/the-stag-modern-restoration.jpg)\n\nDonec
+now-text: "![the-stag-modern-restoration.jpg](/uploads/the-stag-modern-restoration.jpg)\n\n### Now  \n\nDonec
   id elit non mi porta gravida at eget metus. Donec ullamcorper nulla\nnon metus auctor
   fringilla. Cras mattis consectetur purus sit amet fermentum."
 about-content:
   header: Tales of Rackenford
   text: |-
-    Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna.
+    ITV West Country cameras have been visiting the village of Rackenford in Devon, hearing the stories of the people who live here and finding out what makes a rural West Country village tick.
 
-    Cras mattis consectetur purus sit amet fermentum. Nullam id dolor id nibh ultricies vehicula ut id elit. Maecenas faucibus mollis interdum. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas sed diam eget risus varius blandit sit amet non magna. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-  video-url: https://www.youtube.com/watch?v=-lD4YEQjEgk
+    *Rackenford Tales* gives a flavour of what it's like to live out in the country, to run a business, to go to a small village school, and how things have changed over the years for rural farming communities like this.
+  youtube-video-id: -lD4YEQjEgk
 layout: about
 ---
 
