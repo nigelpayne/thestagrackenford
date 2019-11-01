@@ -241,12 +241,15 @@ section.container .column h3 {
   font-size: 40px;
   letter-spacing: 0.1em;
   font-weight: 500;
-  margin: 24px auto;
+  margin: 24px auto 12px;
 }
 
 section.then-and-now {
-  background: #222222;
+  background: #333333;
   color: #faf2d5;
+}
+section.then-and-now h3 {
+  color: #ffffff;
 }
 
 .videoWrapper {
@@ -348,7 +351,7 @@ section.large-nav a span {
   text-align: center;
   font-family: gill-sans-nova, sans-serif;
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 30px;
   letter-spacing: 0.1em;
   font-weight: 500;
   color: #ffffff;
@@ -360,12 +363,43 @@ section.content {
   background: #F4E6B1;
 }
 
-section.content h3 {
+section.content.home h3 {
   margin: 10px 0 24px;
   text-align: center;
   font-size: 40px;
   font-family: ltc-caslon-pro, serif;
   font-weight: 400;
+}
+
+section.content.about h3 {
+  margin: 10px 0 24px;
+  text-align: center;
+  font-size: 40px;
+  font-family: ltc-caslon-pro, serif;
+  font-weight: 400;
+}
+
+section.events h3.date-of-event {
+  // text-transform: uppercase;
+  // font-size: 24px;
+  // letter-spacing: 0.1em;
+  color: #812024;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+section.events h2.title-of-event {
+  // text-transform: uppercase;
+  font-size: 40px;
+  // letter-spacing: 0.1em;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+section.events .event {
+  padding-bottom: 60px;
+}
+
+section.events .event:nth-child(odd) {
+  background: #faf2d5;
 }
 
 section.content h4 {

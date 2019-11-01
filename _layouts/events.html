@@ -20,16 +20,16 @@ layout: default
 
 </section>
 
-<section>
+<section class="events">
 {% for event in site.posts %}
 
-<div>
-	<h3>{{ event.date-of-event }}</h3>
+<section class="content event">
+	<h3 class="date-of-event">{{ event.date-of-event }}</h3>
 
-	<h2>{{ event.title }}</h2>
+	<h2 class="title-of-event">{{ event.title }}</h2>
 
 	{{ event.content | markdownify}}
-</div>
+</section>
 
 {% endfor %}
 </section>

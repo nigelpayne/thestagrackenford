@@ -3,7 +3,7 @@ var myElement = document.querySelector("header");
 // construct an instance of Headroom, passing the element
 var options = {
     // vertical offset in px before element is first unpinned
-    offset : 60,
+    offset : 120,
     // or you can specify tolerance individually for up/down scroll
     tolerance : {
         up : 0,
