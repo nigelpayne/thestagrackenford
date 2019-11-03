@@ -8,7 +8,7 @@ now-text: "![the-stag-modern-restoration.jpg](/uploads/the-stag-modern-restorati
   Now  \n\nDonec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla\nnon
   metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum."
 about-content:
-  header: Tales of Rackenford
+  header: Rackenford Tales
   text: |-
     ITV West Country cameras have been visiting the village of Rackenford in Devon, hearing the stories of the people who live here and finding out what makes a rural West Country village tick.
 
