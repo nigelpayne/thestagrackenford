@@ -4,8 +4,8 @@ permalink: "/about/"
 then-image: "/uploads/the-stag-cobbled-tunnel.jpg"
 then-text: Cobbled tunnel which sheep used to be herded through to the yard.
 now-image: "/uploads/the-stag-modern-restoration.jpg"
-now-text: |-
-  Donec id elit non mi porta gravida at eget mattis consectetur purus sit amet fermentum.
+now-text: Donec id elit non mi porta gravida at eget mattis consectetur purus sit
+  amet fermentum.
 about-content:
   header: Rackenford Tales
   text: |-
