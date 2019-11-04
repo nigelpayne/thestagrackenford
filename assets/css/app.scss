@@ -160,11 +160,11 @@ header nav a::after {
 }
 
 header nav a:hover::after {
-  width: 100%;
+  width: calc(100% - 2px);
 }
 
 header nav a.selected:after {
-  width: 100%;
+  width: calc(100% - 2px);
 }
 
 header div.contact-details {
