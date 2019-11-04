@@ -67,6 +67,34 @@ p {
   margin-bottom: 12px;
 }
 
+section.editable h1,
+section.editable h2,
+section.editable h3,
+section.editable h4,
+section.editable h5
+ {
+  font-family: gill-sans-nova, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  // text-align: center;
+  color: #812024;
+  margin-bottom: 12px;
+}
+
+section.content h1 {
+  font-size: 40px;
+}
+section.content h2 {
+  font-size: 32px;
+}
+section.content h3 {
+  font-size: 28px;
+}
+section.content h4 {
+  font-size: 24px;
+}
+
 /* HEADER */
 header {
   position: fixed;
@@ -80,7 +108,7 @@ header {
   flex-direction: row;
   justify-content: space-between;
   align-items: center; */
-  padding: 40px 60px 36px;
+  padding: 40px 60px 30px;
 }
 
 header a {
@@ -98,7 +126,7 @@ header a {
 header nav,
 header div {
   position: absolute;
-  top:50%;
+  top:52%;
   transform: translate(0, -50%);
 }
 header nav {
@@ -234,6 +262,7 @@ section.container {
 
 section.container .column {
   width: 47%;
+  position: relative;
 }
 
 section.container .column h3 {
@@ -247,10 +276,18 @@ section.container .column h3 {
 section.then-and-now {
   background: #333333;
   color: #faf2d5;
-  padding: 60px 240px;
+  padding: 120px 240px 60px;
 }
 section.then-and-now h3 {
   color: #ffffff;
+}
+
+section.then-and-now .roundel {
+  width: 120px;
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
 }
 
 .videoWrapper {
@@ -401,16 +438,6 @@ section.events .event {
 
 section.events .event:nth-child(odd) {
   background: #faf2d5;
-}
-
-section.content h4 {
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  text-align: center;
-  color: #812024;
-  margin-bottom: 12px;
 }
 
 section.content img {

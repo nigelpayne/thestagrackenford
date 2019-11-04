@@ -15,7 +15,7 @@ layout: default
 
 </section>
 
-<section class="intro" id="intro">
+<section class="content editable" id="intro">
 
 	{{ content }}
 
@@ -23,9 +23,17 @@ layout: default
 
 <section class="then-and-now container">
 	<div class="column">
+		<img src="/assets/img/The-Stag-Rackenford-Roundel-then.svg" alt="The Stag Then" class="roundel">
+
+		<img src="{{ page.then-image }}" alt="The Stag Then">
+
 		{{ page.then-text | markdownify}}
 	</div>
 	<div class="column">
+		<img src="/assets/img/The-Stag-Rackenford-Roundel-now.svg" alt="The Stag Now" class="roundel">
+
+		<img src="{{ page.now-image }}" alt="The Stag Now">
+
 		{{ page.now-text | markdownify}}
 	</div>
 </section>
