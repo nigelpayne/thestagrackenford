@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="hero event">
+	<span>
+		<h2>
+			{{ page.title }}
+		</h2>
+
+		<a href="#intro" class="tell-me-more">View now <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
+	</span>
+
+</section>
+
+<section class="content" id="intro">
+
+	{{ content }}
+
+</section>
+
+<section class="events">
+{% for event in site.posts %}
+
+<section class="content event">
+	<h3 class="date-of-event">{{ event.date-of-event }}</h3>
+
+	<h2 class="title-of-event">{{ event.title }}</h2>
+
+	{{ event.content | markdownify}}
+</section>
+
+{% endfor %}
+</section>

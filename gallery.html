@@ -1,0 +1,11 @@
+---
+title: Gallery
+permalink: "/gallery/"
+layout: gallery
+---
+
+{% for gallery in site.gallery %}
+
+  <img src="{{ gallery.image }}" alt="{{ gallery.title }}">
+
+{% endfor %}

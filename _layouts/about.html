@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<section class="hero about">
+
+	<span>
+		<h2>
+			{{ page.title }}
+		</h2>
+
+		<a href="#intro" class="tell-me-more">Learn more <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
+	</span>
+
+</section>
+
+<section class="content editable" id="intro">
+
+	{{ content }}
+
+</section>
+
+<section class="then-and-now container">
+	<div class="column">
+		<img src="/assets/img/The-Stag-Rackenford-Roundel-then.svg" alt="The Stag Then" class="roundel">
+
+		<img src="{{ page.then-image }}" alt="The Stag Then" class="then-and-now-image">
+
+		{{ page.then-text | markdownify}}
+	</div>
+	<div class="column">
+		<img src="/assets/img/The-Stag-Rackenford-Roundel-now.svg" alt="The Stag Now" class="roundel">
+
+		<img src="{{ page.now-image }}" alt="The Stag Now" class="then-and-now-image">
+
+		{{ page.now-text | markdownify}}
+	</div>
+</section>
+
+<section class="content about">
+	<h3>{{ page.about-content.header }}</h3>
+	{{ page.about-content.text | markdownify}}
+
+	<div class="videoWrapper">
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.about-content.youtube-video-id }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+</section>
+
+<a href="/food/" class="endpagelink food"><span>View our menus</span></a>

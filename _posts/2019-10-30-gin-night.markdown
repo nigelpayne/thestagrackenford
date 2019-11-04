@@ -1,0 +1,10 @@
+---
+title: Gin Night
+date: 2019-10-30 13:01:00 +00:00
+date-of-event: Saturday 9th November
+featured-image: image goes here
+---
+
+Five gins and food for £30, hosted by our very own Mistress of Gin, Katie Partridge. If you are interested, please book a ticket or [email us](mailto:eat@thestagdevon.co.uk?subject=Gin Night).  
+
+![gin-night.jpg](/uploads/gin-night.jpg)

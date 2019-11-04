@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+<section class="hero food">
+
+	<span>
+		<h2>
+			{{ page.title }}
+		</h2>
+
+		<a href="#intro" class="tell-me-more">View our menus <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
+	</span>
+
+</section>
+
+<!-- <section class="content" id="intro">
+
+	{{ content }}
+
+</section> -->
+
+<section class="menus" id="intro">
+
+	<div class="tab">
+
+		{% for menu in site.menus %}
+
+		<button class="tablinks" onclick="openCity(event, '{{ menu.title | downcase | truncate: 3, "" }}')"
+		{% if forloop.first == true %}
+        id="defaultOpen"
+    {% endif %}
+		>{{ menu.title }}</button>
+
+		{% endfor %}
+
+	</div>
+
+	{% for menu in site.menus %}
+
+	<div class="menu tabcontent" id="{{ menu.title | downcase | truncate: 3, "" }}">
+		{{ menu.content | markdownify}}
+	</div>
+
+	{% endfor %}
+</section>
+
+<section class="content editable beer-bread">
+	<div class="beer-bread-text">
+		<h2>{{ page.food-content.header }}</h2>
+		{{ page.food-content.text | markdownify}}
+	</div>
+	<div>
+		<img src="{{ page.food-content.image }}" alt="{{ page.food-content.header }}" class="beer-bread-image">
+	</div>
+</section>
+
+<section class="suppliers">
+
+	<h2>Our suppliers</h2>
+
+	<div class="supplier-container">
+		{% for supplier in site.suppliers %}
+
+		<a href="{{ supplier.link }}" class="supplier" target="_blank">
+
+			<div class="supplier-image-container"><img src="{{ supplier.image }}" alt="{{ supplier.title }}"></div>
+
+			<h3>{{ supplier.title }}</h3>
+
+		</a>
+
+		{% endfor %}
+	</div>
+</section>
+
+<a href="/events/" class="endpagelink event"><span>View upcoming events</span></a>

@@ -3,8 +3,20 @@ title: The Stag Rackenford - Gastropub
 timezone: Europe/London
 collections:
   posts:
-    title: Posts
+    title: Events
     output: true
+  gallery:
+    title: Gallery
+    output: false
+    permalink: gallery
+  menus:
+    title: Menus
+    output: false
+    permalink: menus
+    sort_by: position
+  suppliers:
+    title: Suppliers
+    output: false
   uploads:
     title: Uploads
     output: true
@@ -18,14 +30,43 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: post
+    date-of-event: ''
+- scope:
+    path: ''
+    type: gallery
+  values:
+    image: ''
+- scope:
+    path: ''
+    type: suppliers
+  values:
+    image: ''
+    link: ''
 email: eat@thestagdevon.co.uk
 description: A new site
+footer_description_text: Rumoured to be the oldest pub in Devon. TripAdvisor Certificate
+  of Excellence 2019. Dog friendly.
 baseurl: 
 url: 
-twitter_username: tweetsofpayne
-github_username: nigelpayne
+twitter_url: 
+facebook_url: 
+instagram_url: 
+tripadvisor_url: 
 telephone: '01884 881755'
+email_address: eat@thestagdevon.co.uk
+opening_times_text: |-
+  Wednesday - Saturday\
+  12:00 - 15:00\
+  18:00 - 23:00
+
+  Sunday
+  12:00 - 16:00
+reservations_text: Please call [01884 881755](tel:01884881755) to reserve a table.
+location_text: |-
+  Rackenford, Devon, EX16 8DT.\
+  Find us just off the A361, the North Devon Link Road.
+
+  [View on Google Maps](https://goo.gl/maps/3fejJabqST38Rr4J8)
 theme: minima
 plugins:
 - jekyll-feed

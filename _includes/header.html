@@ -1,5 +1,6 @@
 <header>
   <nav>
+    <a href="/" {% if page.url == "/" %} class="selected" {% endif %}>Home</a>
     <a href="/about/" {% if page.url == "/about/" %} class="selected" {% endif %}>About</a>
     <a href="/events/" {% if page.url == "/events/" %} class="selected" {% endif %}>What&rsquo;s on</a>
     <a href="/food/" {% if page.url == "/food/" %} class="selected" {% endif %}>Food</a>
@@ -11,8 +12,8 @@
   </h1>
 
   <div class="contact-details">
-    <a href="tel:01884881755">{{ site.telephone }}</a>
-    <a href="mailto:eat@thestagdevon.co.uk">eat@thestagdevon.co.uk</a>
+    <a href="tel:{{ site.telephone }}">{{ site.telephone }}</a>
+    <a href="mailto:{{ site.email_address }}">{{ site.email_address }}</a>
   </div>
 
 </header>
