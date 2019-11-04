@@ -54,16 +54,13 @@ instagram_url:
 tripadvisor_url: 
 telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
-opening_times_text: |-
-  Wednesday - Saturday
-  12:00 - 15:00
-  18:00 - 23:00
-
-  Sunday
-  12:00 - 16:00
+opening_times_text: "Wednesday - Saturday  \n12:00 - 15:00  \n18:00 - 23:00\n\nSunday
+  \ \n12:00 - 16:00"
 reservations_text: Please call [01884 881755](tel:01884881755) to reserve a table.
 location_text: |-
-  Rackenford, Devon, EX16 8DT. Find us just off the A361, the North Devon Link Road.
+  Rackenford, Devon, EX16 8DT.
+
+  Find us just off the A361, the North Devon Link Road.
 
   [View on Google Maps](https://goo.gl/maps/3fejJabqST38Rr4J8)
 theme: minima
