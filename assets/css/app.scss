@@ -500,10 +500,11 @@ section.suppliers {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 60px;
-    // align-items: center;
+    align-items: baseline;
 
     .supplier {
       width: 17%;
+      margin-bottom: 32px;
 
       .supplier-image-container {
         margin-bottom: 12px;
