@@ -15,43 +15,64 @@ layout: default
 
 </section>
 
-<section class="content" id="intro">
+<!-- <section class="content" id="intro">
 
-		{{ content }}
+	{{ content }}
 
+</section> -->
+
+<section class="menus" id="intro">
+
+	<div class="tab">
+
+		{% for menu in site.menus %}
+
+		<button class="tablinks" onclick="openCity(event, '{{ menu.title | downcase | truncate: 3, "" }}')"
+		{% if forloop.first == true %}
+        id="defaultOpen"
+    {% endif %}
+		>{{ menu.title }}</button>
+
+		{% endfor %}
+
+	</div>
+
+	{% for menu in site.menus %}
+
+	<div class="menu tabcontent" id="{{ menu.title | downcase | truncate: 3, "" }}">
+		{{ menu.content | markdownify}}
+	</div>
+
+	{% endfor %}
 </section>
 
-<section class="menus">
-{% for menu in site.menus %}
-
-<div class="menu">
-
-	<h2>{{ menu.title }}</h2>
-
-	{{ menu.content | markdownify}}
-</div>
-
-{% endfor %}
-</section>
-
-<section>
-	<h3>{{ page.food-content.header }}</h3>
-	{{ page.food-content.text | markdownify}}
-	<img src="{{ page.food-content.image }}" alt="{{ page.food-content.header }}">
+<section class="content editable beer-bread">
+	<div class="beer-bread-text">
+		<h2>{{ page.food-content.header }}</h2>
+		{{ page.food-content.text | markdownify}}
+	</div>
+	<div>
+		<img src="{{ page.food-content.image }}" alt="{{ page.food-content.header }}" class="beer-bread-image">
+	</div>
 </section>
 
 <section class="suppliers">
-{% for supplier in site.suppliers %}
 
-<div class="supplier">
+	<h2>Our suppliers</h2>
 
-	<img src="{{ supplier.image }}" alt="{{ supplier.title }}">
+	<div class="supplier-container">
+		{% for supplier in site.suppliers %}
 
-	<h3>{{ supplier.title }}</h3>
+		<div class="supplier">
 
-</div>
+			<div class="supplier-image-container"><img src="{{ supplier.image }}" alt="{{ supplier.title }}"></div>
 
-{% endfor %}
+			<h3>{{ supplier.title }}</h3>
+
+		</div>
+
+		{% endfor %}
+	</div>
 </section>
 
 <a href="/events/" class="endpagelink event"><span>View upcoming events</span></a>
