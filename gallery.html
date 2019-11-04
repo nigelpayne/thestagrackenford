@@ -6,7 +6,6 @@ layout: gallery
 
 {% for gallery in site.gallery %}
 
-  <h2>{{ gallery.title }}</h2>
-  <p>{{ gallery.image }}</p>
+  <img src="{{ gallery.image }}" alt="{{ gallery.title }}">
 
 {% endfor %}

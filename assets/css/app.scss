@@ -254,6 +254,7 @@ section.hero a.tell-me-more {
   transition: opacity 0.3s ease;
   width: 200px;
   margin: 0 auto;
+  cursor: pointer;
 }
 
 section.hero a.tell-me-more:hover {
@@ -432,6 +433,15 @@ section.content {
   background: #F4E6B1;
 }
 
+section.content.gallery {
+  padding: 140px 60px 60px;
+  background: #342E2B;
+}
+section.content.gallery img {
+  max-height: 80vh;
+  max-width: 80vw;
+}
+
 section.content.home h3 {
   margin: 10px 0 24px;
   text-align: center;
@@ -483,7 +493,8 @@ section.content img {
   margin: 30px auto;
 }
 section.content.event img {
-  max-width: 600px;
+  max-width: 80vw;
+  max-height: 80vh;
 }
 section.content img.roundel {
   margin: 0;
@@ -546,18 +557,14 @@ section.suppliers h2 {
 /* ----- MENUS ------*/
 
 section.menus {
-  // padding: 0 120px 60px;
-  // background: #812024;
-  // color: #faf2d5;
-  // height: 1000px;
   text-align: center;
+  font-family: gill-sans-nova, sans-serif;
 }
 
 
 /* Style the tab */
 .tab {
   overflow: hidden;
-  // border: 1px solid #ccc;
   background-color: #F4E6B1;
   padding-top: 24px;
 }
@@ -570,7 +577,6 @@ section.menus {
   font-weight: 500;
   font-size: 24px;
   background-color: inherit;
-  // float: left;
   border: none;
   outline: none;
   cursor: pointer;
