@@ -1,7 +1,6 @@
 ---
 title: The Stag then and now
 permalink: "/about/"
-header-image: image would go here
 then-image: "/uploads/the-stag-cobbled-tunnel.jpg"
 then-text: "### Then  \n\nCobbled tunnel which sheep used to be herded through to
   the yard."
