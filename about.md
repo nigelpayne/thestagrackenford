@@ -2,10 +2,10 @@
 title: The Stag then and now
 permalink: "/about/"
 then-image: "/uploads/the-stag-cobbled-tunnel.jpg"
-then-text: "### Then  \n\nCobbled tunnel which sheep used to be herded through to
+then-text: "Cobbled tunnel which sheep used to be herded through to
   the yard."
 now-image: "/uploads/the-stag-modern-restoration.jpg"
-now-text: "### Now  \n\nDonec id elit non mi porta gravida at eget metus. Donec ullamcorper
+now-text: "Donec id elit non mi porta gravida at eget metus. Donec ullamcorper
   nulla\nnon metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum."
 about-content:
   header: Rackenford Tales
@@ -17,28 +17,6 @@ about-content:
 layout: about
 ---
 
-Main text block
-
 # Heading 1
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-**Some bold text**
-
-*Some italic text*
-
-* a list
-* a another list item
-
-1. ordered list
-2. another ordered list item
-
-[and a link](http://thestagdevon.co.uk)
-
-> Quote block
+Paragraph about the pub's history to go here.

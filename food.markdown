@@ -11,4 +11,4 @@ food-content:
 layout: food
 ---
 
-main text block
+Short paragraph about the food to go here.

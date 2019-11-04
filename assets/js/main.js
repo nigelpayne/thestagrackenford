@@ -6,7 +6,7 @@ var options = {
     offset : 120,
     // or you can specify tolerance individually for up/down scroll
     tolerance : {
-        up : 0,
+        up : 10,
         down : 0
     }
 
