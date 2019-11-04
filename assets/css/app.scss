@@ -482,6 +482,9 @@ section.events .event:nth-child(odd) {
 section.content img {
   margin: 30px auto;
 }
+section.content.event img {
+  max-width: 600px;
+}
 section.content img.roundel {
   margin: 0;
   width: 120px;
@@ -505,12 +508,29 @@ section.suppliers {
     .supplier {
       width: 17%;
       margin-bottom: 32px;
+      color: #faf2d5;
+      transition: color 0.3s ease;
+      opacity: 1;
 
       .supplier-image-container {
         margin-bottom: 12px;
       }
     }
   }
+}
+.supplier img {
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+
+.supplier:hover {
+    color: #ffffff;
+}
+.supplier:hover img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+    opacity: 0.6;
+    // color: #ffffff;
 }
 
 section.suppliers h2 {

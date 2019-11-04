@@ -63,13 +63,13 @@ layout: default
 	<div class="supplier-container">
 		{% for supplier in site.suppliers %}
 
-		<div class="supplier">
+		<a href="{{ supplier.link }}" class="supplier" target="_blank">
 
 			<div class="supplier-image-container"><img src="{{ supplier.image }}" alt="{{ supplier.title }}"></div>
 
 			<h3>{{ supplier.title }}</h3>
 
-		</div>
+		</a>
 
 		{% endfor %}
 	</div>
