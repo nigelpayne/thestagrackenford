@@ -4,11 +4,11 @@ title: |-
   for you from scratch
 date: 2019-10-30 09:56:00 +00:00
 permalink: "/food/"
-layout: food
 food-content:
-  header: content header
-  text: content text
-  image: content image
+  header: Beer bread
+  text: A short description about the lovely beer bread will go here.
+  image: "/uploads/the-stag-beer-bread.jpg"
+layout: food
 ---
 
 main text block
