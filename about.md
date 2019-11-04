@@ -2,11 +2,11 @@
 title: The Stag then and now
 permalink: "/about/"
 then-image: "/uploads/the-stag-cobbled-tunnel.jpg"
-then-text: "Cobbled tunnel which sheep used to be herded through to
-  the yard."
+then-text: Cobbled tunnel which sheep used to be herded through to the yard.
 now-image: "/uploads/the-stag-modern-restoration.jpg"
-now-text: "Donec id elit non mi porta gravida at eget metus. Donec ullamcorper
-  nulla\nnon metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum."
+now-text: |-
+  Donec id elit non mi porta gravida at eget metus. Donec ullamcorper nulla
+  non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum.
 about-content:
   header: Rackenford Tales
   text: |-
