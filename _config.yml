@@ -16,7 +16,7 @@ collections:
     sort_by: position
   stay:
     title: Stay
-    output: true
+    output: false
   suppliers:
     title: Suppliers
     output: false
