@@ -14,6 +14,9 @@ collections:
     output: false
     permalink: menus
     sort_by: position
+  stay:
+    title: Stay
+    output: false
   suppliers:
     title: Suppliers
     output: false
