@@ -1,5 +1,5 @@
 ---
-title: Places to visit nearby
+title: Stay at The Stag or nearby
 permalink: "/stay/"
 layout: stay
 ---
