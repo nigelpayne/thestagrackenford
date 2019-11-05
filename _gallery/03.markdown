@@ -1,6 +1,6 @@
 ---
 title: '03'
 date: 2019-11-04 15:42:00 +00:00
-image: "/uploads/03.png"
+image: "/uploads/the-stag-fireplace-closeup.jpg"
 ---
 

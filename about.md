@@ -1,11 +1,13 @@
 ---
 title: The Stag then and now
 permalink: "/about/"
-then-image: "/uploads/the-stag-cobbled-tunnel.jpg"
-then-text: Cobbled tunnel which sheep used to be herded through to the yard.
-now-image: "/uploads/the-stag-modern-restoration.jpg"
-now-text: Donec id elit non mi porta gravida at eget mattis consectetur purus sit
-  amet fermentum.
+then-image: "/uploads/the-stag-cellar-march-1955-square.jpg"
+then-text: The old beer cellar. Vivamus sagittis lacus vel augue laoreet rutrum faucibus
+  dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+now-image: "/uploads/the-stag-wood-paneling.jpg"
+now-text: Taper burn marks in the wood paneling. They are theorised to have been made
+  as part of a folk superstition, then thought to protect the building from fire,
+  lightning or even spirits.
 about-content:
   header: Rackenford Tales
   text: |-
@@ -18,8 +20,11 @@ layout: about
 
 Couple of paragraphs about the pub's history to go here. Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit sit amet non magna. Donec sed odio dui. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 
+![the-stag-old.jpg](/uploads/the-stag-old.jpg)
+
 Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
 
+![the-stag-building-past.jpg](/uploads/the-stag-building-past.jpg)
 
 ### Example heading
 

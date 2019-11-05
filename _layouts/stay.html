@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<section class="hero stay">
+
+	<span>
+		<h2>
+			{{ page.title }}
+		</h2>
+
+		<a href="#intro" class="tell-me-more">Learn more <br><svg xmlns="http://www.w3.org/2000/svg" width="25.413" height="13.413" viewBox="0 0 25.413 13.413">
+				<path d="M2607.707,620.258l12.353,12.353,12.353-12.353" transform="translate(-2607.354 -619.904)" fill="none" stroke="#ffffff" stroke-width="1" /></svg></a>
+	</span>
+
+</section>
+
+<section class="content" id="intro">
+
+	{{ content }}
+
+</section>
+
+<section class="suppliers">
+
+	<h2>Places nearby</h2>
+
+	<div class="supplier-container">
+		{% for stay in site.stay %}
+
+		<a href="{{ stay.link }}" class="supplier stay" target="_blank">
+
+			<div class="supplier-image-container"><img src="{{ stay.image }}" alt="{{ stay.title }}"></div>
+
+			<h3>{{ stay.title }}</h3>
+
+			<p>{{ stay.content }}</p>
+
+		</a>
+
+		{% endfor %}
+	</div>
+</section>
+
+<a href="/events/" class="endpagelink event"><span>View upcoming events</span></a>

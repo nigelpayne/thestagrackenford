@@ -45,6 +45,12 @@ defaults:
   values:
     image: ''
     link: ''
+- scope:
+    path: ''
+    type: stay
+  values:
+    image: ''
+    link: ''
 email: eat@thestagdevon.co.uk
 description: A new site
 footer_description_text: Rumoured to be the oldest pub in Devon. TripAdvisor Certificate

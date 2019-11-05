@@ -1,6 +1,6 @@
 ---
-title: another image
+title: Wood Paneling
 date: 2019-11-04 20:17:00 +00:00
-image: "/uploads/02.png"
+image: "/uploads/the-stag-wood-paneling.jpg"
 ---
 
