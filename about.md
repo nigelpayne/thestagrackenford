@@ -2,9 +2,12 @@
 title: The Stag then and now
 permalink: "/about/"
 then-image: "/uploads/the-stag-cellar-march-1955-square.jpg"
-then-text: The old beer cellar. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+then-text: The old beer cellar. Vivamus sagittis lacus vel augue laoreet rutrum faucibus
+  dolor auctor. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
 now-image: "/uploads/the-stag-wood-paneling.jpg"
-now-text: Taper burn marks in the wood paneling. They are theorised to have been made as part of a folk superstition, then thought to protect the building from fire, lightning or even spirits.
+now-text: Taper burn marks in the wood paneling. They are theorised to have been made
+  as part of a folk superstition, then thought to protect the building from fire,
+  lightning or even spirits.
 about-content:
   header: Rackenford Tales
   text: |-
