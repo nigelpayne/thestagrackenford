@@ -214,7 +214,7 @@ section.hero:before {
 }
 
 section.hero.about:before {
-  background-image: url('../img/the-stag-old.jpg');
+  background-image: url('../../uploads/the-stag-customers-1955.jpg');
   background-position: 50% 50%;
 }
 section.hero.event:before {
@@ -222,6 +222,9 @@ section.hero.event:before {
 }
 section.hero.food:before {
   background-image: url('../img/the-stag-menu.jpg');
+}
+section.hero.stay:before {
+  background-image: url('../../uploads/the-stag-fireplace-closeup.jpg');
 }
 
 section.hero span {
@@ -462,7 +465,8 @@ section.content.about h3 {
 }
 
 section.content.about {
-  background: #2F5A8B;
+  // background: #2F5A8B;
+  background: #0A262B;
   color: #faf2d5;
 }
 
