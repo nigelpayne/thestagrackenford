@@ -2,7 +2,7 @@
 section.hero {
   // margin: 0 0 60px;
   background-color: #2F2C27;
-  color: #ffffff;
+  color: $brand-color-lighter;
   text-align: center;
   position: relative;
   height: 100vh;
@@ -64,7 +64,7 @@ section.hero h2 {
 section.hero a.tell-me-more {
   @include font-sans-uppercase;
   text-decoration: none;
-  color: #ffffff;
+  color: $brand-color-lighter;
   font-size: 12px;
   line-height: 2.4;
   transition: opacity 0.3s ease;
