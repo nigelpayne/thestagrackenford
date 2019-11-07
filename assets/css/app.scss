@@ -42,11 +42,22 @@ section.container {
   text-align: center;
   flex-wrap: wrap;
   justify-content: space-between;
+
+  @include mq('tablet-wide') {
+    font-size: 20px;
+  }
 }
 
 section.container .column {
-  width: 47%;
+  width: 100%;
   position: relative;
+  margin-bottom: 120px;
+
+  @include mq('tablet-wide') {
+    width: 47%;
+    margin-bottom: 0;
+  }
+
 }
 
 section.container .column h3 {
