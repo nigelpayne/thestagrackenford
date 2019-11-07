@@ -139,7 +139,7 @@ section.beer-bread .beer-bread-text {
 }
 
 /* information */
-section.information {
+section.information, section.large-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -147,9 +147,13 @@ section.information {
 }
 
 section.information div {
-  width: 30%;
+  width: 100%;
   text-align: center;
   padding: 10px;
+
+  @include mq('tablet-wide') {
+    width: 30%;
+  }
 }
 
 section.information h4 {
@@ -160,17 +164,18 @@ section.information h4 {
 
 /* large-nav */
 section.large-nav {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
   margin: 0 60px 60px;
 }
 
 section.large-nav a {
-  width: 30%;
+  width: 100%;
   text-align: center;
   background: $text-color;
   position: relative;
+
+  @include mq('tablet') {
+    width: 30%;
+  }
 }
 
 section.large-nav a.green-bg {
