@@ -1,11 +1,15 @@
 ---
 ---
-
 @import 'base';
 @import 'fonts';
 
+@import 'variables';
+@import 'mixins';
+
+@import 'typography';
+
 html {
-  background-color: #812024;
+  background-color: $accent-color;
   scroll-behavior: smooth;
 }
 
@@ -16,253 +20,20 @@ body {
 }
 
 body {
-  font-family: ltc-caslon-pro, serif;
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 1.4;
-  background-color: #faf2d5;
-  color: #2F2C27;
-}
+  @include font-serif;
+  font-size: 18px;
+  line-height: $lh;
+  background-color: $brand-color;
+  color: $text-color;
 
-/* TYPOGRAPHY */
-h1, h2, h3, h4, h5, h6 {
-  font-family: gill-sans-nova, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-}
-
-em {
-  font-style: italic;
-}
-
-p strong {
-  font-weight: 700;
-}
-
-/* LINKS */
-a {
-  color: #812024;
-  text-decoration: none;
-}
-
-p a {
-  display: inline-block;
-}
-
-p a::after {
-  content: '';
-  display: block;
-  width: 100%;
-  height: 1px;
-  background: #812024;
-  transition: width .3s cubic-bezier(0.22, 0.61, 0.36, 1);
-}
-
-p a:hover::after {
-  width: 0;
-}
-
-p {
-  margin-bottom: 12px;
-}
-
-section.editable h1,
-section.editable h2,
-section.editable h3
- {
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  // text-align: center;
-  color: #812024;
-  margin: 32px 0 12px;
-}
-
-section.editable h4,
-section.editable h5
- {
-  color: #812024;
-  margin: 0 0 24px;
-}
-
-section.content h1 {
-  font-size: 40px;
-}
-section.content h2 {
-  font-size: 32px;
-}
-section.content h3 {
-  font-size: 28px;
-}
-section.content h4 {
-  font-size: 24px;
-}
-
-/* HEADER */
-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 3;
-  background-color: #faf2d5;
-  text-align: center;
-  /* display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center; */
-  padding: 40px 60px 30px;
-}
-
-header a {
-  font-family: gill-sans-nova, sans-serif;
-  text-decoration: none;
-  color: #2F2C27;
-  text-transform: uppercase;
-  font-size: 14px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  display: inline-block;
-}
-
-
-header nav,
-header div {
-  position: absolute;
-  top:52%;
-  transform: translate(0, -50%);
-}
-header nav {
-  left: 60px;
+  @include mq('tablet-wide') {
+    font-size: 20px;
+  }
 
 }
-header div {
-  right: 60px;
-}
 
-header nav a {
-  margin-right: 28px;
-}
-
-header a:hover {
-  color: #812024;
-}
-
-header nav a::after {
-  content: '';
-  display: block;
-  width: 0;
-  height: 1px;
-  background: #812024;
-  transition: width .3s cubic-bezier(0.22, 0.61, 0.36, 1);
-}
-
-header nav a:hover::after {
-  width: calc(100% - 2px);
-}
-
-header nav a.selected:after {
-  width: calc(100% - 2px);
-}
-
-header div.contact-details {
-  text-align: right;
-}
-
-header div.contact-details a {
-  text-transform: none;
-  margin-left: 32px;
-}
-
-header h1 {
-  margin-top: -20px;
-}
-
-/* HERO */
-section.hero {
-  // margin: 0 0 60px;
-  background-color: #2F2C27;
-  color: #ffffff;
-  text-align: center;
-  position: relative;
-  height: 100vh;
-  overflow: hidden;
-  /* display: block; */
-}
-
-section.hero:before {
-  content: ' ';
-  display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0.5;
-  background-image: url('../img/landscape-the-stag-rackenford.jpg');
-  background-repeat: no-repeat;
-  background-position: 50% 0;
-  background-attachment: fixed;
-  -ms-background-size: cover;
-  -o-background-size: cover;
-  -moz-background-size: cover;
-  -webkit-background-size: cover;
-  background-size: cover;
-  z-index: 1;
-}
-
-section.hero.about:before {
-  background-image: url('../../uploads/the-stag-customers-1955.jpg');
-  background-position: 50% 50%;
-}
-section.hero.event:before {
-  background-image: url('../img/the-stag-events.jpg');
-}
-section.hero.food:before {
-  background-image: url('../img/the-stag-menu.jpg');
-}
-section.hero.stay:before {
-  background-image: url('../../uploads/the-stag-fireplace-closeup.jpg');
-}
-
-section.hero span {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  width: 100%;
-  padding: 0 200px;
-  z-index: 2;
-  transform: translate(-50%, -50%);
-}
-
-section.hero h2 {
-  font-size: 46px;
-  margin-bottom: 24px;
-  font-family: ltc-caslon-pro, serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-section.hero a.tell-me-more {
-  font-family: gill-sans-nova, sans-serif;
-  text-decoration: none;
-  color: #ffffff;
-  text-transform: uppercase;
-  font-size: 12px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  line-height: 2.4;
-  transition: opacity 0.3s ease;
-  width: 200px;
-  margin: 0 auto;
-  cursor: pointer;
-}
-
-section.hero a.tell-me-more:hover {
-  opacity: 0.6;
-}
+@import 'header';
+@import 'heroes';
 
 section.container {
   display: flex;
@@ -286,12 +57,12 @@ section.container .column h3 {
 }
 
 section.then-and-now {
-  background: #2F2C27;
-  color: #faf2d5;
+  background: $text-color;
+  color: $brand-color;
   padding: 120px 240px 60px;
 }
 section.then-and-now h3 {
-  color: #ffffff;
+  color: $brand-color-lighter;
 }
 
 section.then-and-now .roundel {
@@ -332,9 +103,7 @@ section.intro {
 }
 
 .intro h3 {
-  font-family: ltc-caslon-pro, serif;
-  font-weight: 400;
-  font-style: normal;
+  @include font-serif;
   font-size: 24px;
 }
 
@@ -372,10 +141,8 @@ section.information div {
 }
 
 section.information h4 {
-  text-transform: uppercase;
+  @include font-sans-uppercase;
   font-size: 24px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
   margin-bottom: 24px;
 }
 
@@ -390,7 +157,7 @@ section.large-nav {
 section.large-nav a {
   width: 30%;
   text-align: center;
-  background: #2F2C27;
+  background: $text-color;
   position: relative;
 }
 
@@ -399,7 +166,7 @@ section.large-nav a.green-bg {
 }
 
 section.large-nav a.red-bg {
-  background: #812024;
+  background: $accent-color;
 }
 
 section.large-nav a.blue-bg {
@@ -422,12 +189,9 @@ section.large-nav a span {
   width: 75%;
   transform: translate(-50%, -50%);
   text-align: center;
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
+  @include font-sans-uppercase;
   font-size: 30px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  color: #ffffff;
+  color: $brand-color-lighter;
 }
 
 section.content {
@@ -449,40 +213,28 @@ section.content.home h3 {
   margin: 10px 0 24px;
   text-align: center;
   font-size: 40px;
-  font-family: ltc-caslon-pro, serif;
-  font-weight: 400;
+  @include font-serif;
 }
 
 section.content.about h3 {
   margin: 10px 0 24px;
   text-align: center;
   font-size: 40px;
-  // font-family: ltc-caslon-pro, serif;
-  // font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
+  @include font-sans-uppercase;
 }
 
 section.content.about {
   // background: #2F5A8B;
   background: #0A262B;
-  color: #faf2d5;
+  color: $brand-color;
 }
 
 section.events h3.date-of-event {
-  // text-transform: uppercase;
-  // font-size: 24px;
-  // letter-spacing: 0.1em;
-  color: #812024;
-  font-weight: 500;
+  color: $accent-color;
   margin-bottom: 24px;
 }
 section.events h2.title-of-event {
-  // text-transform: uppercase;
   font-size: 40px;
-  // letter-spacing: 0.1em;
-  font-weight: 500;
   margin-bottom: 24px;
 }
 section.events .event {
@@ -490,7 +242,7 @@ section.events .event {
 }
 
 section.events .event:nth-child(odd) {
-  background: #faf2d5;
+  background: $brand-color;
 }
 
 section.content img {
@@ -508,8 +260,8 @@ section.content img.roundel {
 /* ----- SUPPLIERS ------*/
 
 section.suppliers {
-  background: #222222;
-  color: #faf2d5;
+  background: #1D1714;
+  color: $brand-color;
   padding: 60px;
   text-align: center;
 
@@ -523,7 +275,7 @@ section.suppliers {
     .supplier {
       width: 17%;
       margin-bottom: 32px;
-      color: #faf2d5;
+      color: $brand-color;
       transition: color 0.3s ease;
       opacity: 1;
 
@@ -538,21 +290,22 @@ section.suppliers {
     transition: opacity 0.3s ease;
 }
 
+section.suppliers.stay .supplier-container .supplier {
+  width: 30%;
+}
+
 .supplier:hover {
-    color: #ffffff;
+    color: $brand-color-lighter;
 }
 .supplier:hover img {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
     filter: grayscale(100%);
     opacity: 0.6;
-    // color: #ffffff;
+    // color: $brand-color-lighter;
 }
 
 section.suppliers h2 {
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
+  @include font-sans-uppercase;
   font-size: 32px;
   margin-bottom: 30px;
 }
@@ -562,7 +315,7 @@ section.suppliers h2 {
 
 section.menus {
   text-align: center;
-  font-family: gill-sans-nova, sans-serif;
+  @include font-sans;
 }
 
 
@@ -575,10 +328,7 @@ section.menus {
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
+  @include font-sans-uppercase;
   font-size: 24px;
   background-color: inherit;
   border: none;
@@ -592,13 +342,13 @@ section.menus {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  color: #812024;
+  color: $accent-color;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
   background-color: #FAF2D6;
-  color: #812024;
+  color: $accent-color;
 }
 
 /* Style the tab content */
@@ -624,17 +374,14 @@ section.menus {
 
 
 a.endpagelink {
-  font-family: gill-sans-nova, sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-weight: 500;
+  @include font-sans-uppercase;
   font-size: 40px;
   // margin: 60px;
   padding: 200px 0;
   text-align: center;
   display: block;
-  color: #ffffff;
-  background: #2F2C27;
+  color: $brand-color-lighter;
+  background: $text-color;
   position: relative;
   overflow: hidden;
 }
@@ -685,8 +432,8 @@ a.endpagelink:hover span {
 
 /* FOOTER */
 footer {
-  background-color: #2F2C27;
-  color: #faf2d5;
+  background-color: $text-color;
+  color: $brand-color;
   padding: 60px;
   font-size: 18px;
 }
@@ -704,7 +451,7 @@ footer .social-links li a:hover {
 }
 
 footer a {
-  color: #ffffff;
+  color: $brand-color-lighter;
   display: inline-block;
   transition: opacity 0.3s ease;
 }
@@ -722,7 +469,7 @@ footer a::after {
   display: block;
   width: 100%;
   height: 1px;
-  background: #812024;
+  background: $accent-color;
   transition: width .3s cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
@@ -742,10 +489,8 @@ footer .container .column {
 }
 
 footer h5 {
-  text-transform: uppercase;
-  color: #ffffff;
-  letter-spacing: 0.1em;
-  font-weight: 500;
+  @include font-sans-uppercase;
+  color: $brand-color-lighter;
   height: 56px;
   margin-bottom: 12px;
   font-size: 18px;

@@ -1,0 +1,67 @@
+h1, h2, h3, h4, h5, h6 {
+  @include font-sans;
+}
+
+em {
+  font-style: italic;
+}
+
+p strong {
+  font-weight: 700;
+}
+
+/* LINKS */
+a {
+  color: $accent-color;
+  text-decoration: none;
+}
+
+p a {
+  display: inline-block;
+}
+
+p a::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 1px;
+  background: $accent-color;
+  transition: width .3s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+p a:hover::after {
+  width: 0;
+}
+
+p {
+  margin-bottom: 12px;
+}
+
+section.editable h1,
+section.editable h2,
+section.editable h3
+ {
+  @include font-sans-uppercase;
+  color: $accent-color;
+  margin: 32px 0 12px;
+}
+
+section.editable h4,
+section.editable h5
+ {
+  color: $accent-color;
+  margin: 0 0 24px;
+}
+
+section.content h1 {
+  font-size: 40px;
+}
+section.content h2 {
+  font-size: 32px;
+}
+section.content h3 {
+  font-size: 28px;
+}
+section.content h4 {
+  font-size: 24px;
+}

@@ -1,0 +1,72 @@
+/* HEADER */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 3;
+  background-color: $brand-color;
+  text-align: center;
+  padding: 40px 60px 30px;
+}
+
+header a {
+  @include font-sans-uppercase;
+  text-decoration: none;
+  color: $text-color;
+  font-size: 14px;
+  display: inline-block;
+}
+
+
+header nav,
+header div {
+  position: absolute;
+  top:52%;
+  transform: translate(0, -50%);
+}
+header nav {
+  left: 60px;
+
+}
+header div {
+  right: 60px;
+}
+
+header nav a {
+  margin-right: 28px;
+}
+
+header a:hover {
+  color: $accent-color;
+}
+
+header nav a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 1px;
+  background: $accent-color;
+  transition: width .3s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+header nav a:hover::after {
+  width: calc(100% - 2px);
+}
+
+header nav a.selected:after {
+  width: calc(100% - 2px);
+}
+
+header div.contact-details {
+  text-align: right;
+}
+
+header div.contact-details a {
+  text-transform: none;
+  margin-left: 32px;
+}
+
+header h1 {
+  margin-top: -20px;
+}

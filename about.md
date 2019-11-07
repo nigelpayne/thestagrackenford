@@ -1,5 +1,5 @@
 ---
-title: The Stag then and now
+title: Then and now
 permalink: "/about/"
 then-image: "/uploads/the-stag-cellar-march-1955-square.jpg"
 then-text: The old beer cellar. Vivamus sagittis lacus vel augue laoreet rutrum faucibus

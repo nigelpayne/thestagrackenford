@@ -1,0 +1,78 @@
+/* HERO */
+section.hero {
+  // margin: 0 0 60px;
+  background-color: #2F2C27;
+  color: #ffffff;
+  text-align: center;
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+  /* display: block; */
+}
+
+section.hero:before {
+  content: ' ';
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.5;
+  background-image: url('../img/landscape-the-stag-rackenford.jpg');
+  background-repeat: no-repeat;
+  background-position: 50% 0;
+  background-attachment: fixed;
+  -ms-background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  z-index: 1;
+}
+
+section.hero.about:before {
+  background-image: url('../../uploads/the-stag-customers-1955.jpg');
+  background-position: 50% 50%;
+}
+section.hero.event:before {
+  background-image: url('../img/the-stag-events.jpg');
+}
+section.hero.food:before {
+  background-image: url('../img/the-stag-menu.jpg');
+}
+section.hero.stay:before {
+  background-image: url('../../uploads/the-stag-fireplace-closeup.jpg');
+}
+
+section.hero span {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  width: 100%;
+  padding: 0 200px;
+  z-index: 2;
+  transform: translate(-50%, -50%);
+}
+
+section.hero h2 {
+  font-size: 46px;
+  margin-bottom: 24px;
+  @include font-serif;
+}
+
+section.hero a.tell-me-more {
+  @include font-sans-uppercase;
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 12px;
+  line-height: 2.4;
+  transition: opacity 0.3s ease;
+  width: 200px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+section.hero a.tell-me-more:hover {
+  opacity: 0.6;
+}
