@@ -1,0 +1,128 @@
+section.content.home h3 {
+  margin: 10px 0 24px;
+  text-align: center;
+  font-size: 40px;
+  @include font-serif;
+}
+
+/* INTRO */
+section.intro {
+  text-align: center;
+  padding: 30px 19%;
+}
+.intro img {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.intro h3 {
+  @include font-serif;
+  font-size: 24px;
+}
+
+
+
+/* information */
+section.information, section.large-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 60px;
+}
+
+section.information div {
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+
+  @include mq('tablet-wide') {
+    width: 30%;
+  }
+}
+
+section.information h4 {
+  @include font-sans-uppercase;
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+/* large-nav */
+section.large-nav {
+  margin: 0 60px 60px;
+}
+
+section.large-nav a {
+  width: 100%;
+  text-align: center;
+  background: $text-color;
+  position: relative;
+
+  @include mq('tablet') {
+    width: 30%;
+  }
+}
+
+section.large-nav a.green-bg {
+  background: $accent-color-green;
+}
+
+section.large-nav a.red-bg {
+  background: $accent-color;
+}
+
+section.large-nav a.blue-bg {
+  background: $accent-color-blue;
+}
+
+section.large-nav a img {
+  opacity: 0.6;
+  transition: opacity 0.3s cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+section.large-nav a:hover img {
+  opacity: 0.1;
+}
+
+section.large-nav a span {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 75%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  @include font-sans-uppercase;
+  font-size: 30px;
+  color: $brand-color-lighter;
+}
+
+section.container {
+  display: flex;
+  padding: 60px;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @include mq('tablet-wide') {
+    font-size: 20px;
+  }
+}
+
+section.container .column {
+  width: 100%;
+  position: relative;
+  margin-bottom: 120px;
+
+  @include mq('tablet-wide') {
+    width: 47%;
+    margin-bottom: 0;
+  }
+
+}
+
+section.container .column h3 {
+  text-transform: uppercase;
+  font-size: 40px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  margin: 24px auto 12px;
+}

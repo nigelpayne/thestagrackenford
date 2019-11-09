@@ -1,0 +1,48 @@
+section.content.about h3 {
+  margin: 10px 0 24px;
+  text-align: center;
+  font-size: 40px;
+  @include font-sans-uppercase;
+}
+
+section.content.about {
+  // background: $accent-color-blue;
+  background: #0A262B;
+  color: $brand-color;
+}
+
+section.then-and-now {
+  background: $text-color;
+  color: $brand-color;
+  padding: 120px 240px 60px;
+}
+section.then-and-now h3 {
+  color: $brand-color-lighter;
+}
+
+section.then-and-now .roundel {
+  width: 120px;
+  position: absolute;
+  left: 50%;
+  top: -60px;
+  transform: translate(-50%, 0);
+}
+
+section.then-and-now img.then-and-now-image {
+  margin-bottom: 20px;
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+  margin: 60px auto 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}

@@ -1,0 +1,38 @@
+html {
+  background-color: $accent-color;
+  scroll-behavior: smooth;
+}
+
+html,
+body {
+  scroll-padding-top: 140px;
+  /* set to the height of your header */
+}
+
+body {
+  @include font-serif;
+  font-size: 18px;
+  line-height: $lh;
+  background-color: $brand-color;
+  color: $text-color;
+
+  @include mq('tablet-wide') {
+    font-size: 20px;
+  }
+
+}
+
+section.content {
+  padding: 60px 18%;
+  text-align: center;
+  background: $brand-color-darker;
+}
+
+section.content img {
+  margin: 30px auto;
+}
+
+section.content img.roundel {
+  margin: 0;
+  width: 120px;
+}
