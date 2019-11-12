@@ -45,9 +45,13 @@ document.getElementById("defaultOpen").click()
 /* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
 function myFunction() {
   var x = document.getElementById("myTopnav");
+  var toggleTag = document.getElementById("toggleTag");
   if (x.className === "topnav") {
     x.className += " responsive";
+    toggleTag.innerHTML = "Close";
   } else {
     x.className = "topnav";
+    toggleTag.innerHTML = "Menu";
   }
+
 }

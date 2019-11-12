@@ -3,15 +3,16 @@
  * Note: I have omitted any vendor-prefixes for clarity.
  * Adding them is left as an exercise for the reader.
  */
-.headroom {
-  will-change: transform;
-  transition: transform 300ms ease-in;
-}
 
-.headroom--pinned {
-  transform: translateY(0%);
-}
+ .headroom {
+   will-change: transform;
+   transition: transform 300ms ease-in;
+ }
 
-.headroom--unpinned {
-  transform: translateY(-100%);
-}
+ .headroom--pinned {
+   transform: translateY(0%);
+ }
+
+ .headroom--unpinned {
+   transform: translateY(-100%);
+ }
