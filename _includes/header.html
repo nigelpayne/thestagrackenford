@@ -1,5 +1,5 @@
 <header>
-  <nav>
+  <nav class="topnav" id="myTopnav">
     <a href="/" {% if page.url == "/" %} class="selected" {% endif %}>Home</a>
     <a href="/about/" {% if page.url == "/about/" %} class="selected" {% endif %}>About</a>
     <a href="/events/" {% if page.url == "/events/" %} class="selected" {% endif %}>Events</a>
@@ -7,6 +7,8 @@
     <a href="/stay/" {% if page.url == "/stay/" %} class="selected" {% endif %}>Stay</a>
     <a href="/gallery/" {% if page.url == "/gallery/" %} class="selected" {% endif %}>Gallery</a>
   </nav>
+
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">Menu</a>
 
   <h1>
     <a href="/"><img src="/assets/img/the-stag-rackenford.svg" alt="The Stag Rackenford Devon"></a>
