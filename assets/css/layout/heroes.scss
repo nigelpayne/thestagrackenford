@@ -1,34 +1,54 @@
 /* HERO */
 section.hero {
-  // margin: 0 0 60px;
-  background-color: #2F2C27;
-  color: $brand-color-lighter;
   text-align: center;
+  margin: 20px;
+  padding-top: 100px;
   position: relative;
-  height: 100vh;
-  overflow: hidden;
-  /* display: block; */
+
+  @include mq('tablet-small') {
+    background-color: $text-color;
+    color: $brand-color-lighter;
+    position: relative;
+    height: auto;
+    overflow: hidden;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+  }
+
 }
 
 section.hero:before {
+
   content: ' ';
   display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
   width: 100%;
-  height: 100%;
-  opacity: 0.5;
+  position: relative;
+  padding-top: 56.25%;
   background-image: url('../img/landscape-the-stag-rackenford.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
-  background-attachment: fixed;
+  // background-attachment: fixed;
   -ms-background-size: cover;
   -o-background-size: cover;
   -moz-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  z-index: 1;
+  margin-bottom: 20px;
+
+  @include mq('tablet-small') {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.5;
+    margin: 0;
+    background-attachment: fixed;
+    z-index: 1;
+  }
 }
 
 section.hero.about:before {
@@ -46,31 +66,59 @@ section.hero.stay:before {
 }
 
 section.hero span {
-  position: absolute;
-  top: 60%;
-  left: 50%;
-  width: 100%;
-  padding: 0 200px;
-  z-index: 2;
-  transform: translate(-50%, -50%);
+
+  @include mq('tablet-small') {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    width: 100%;
+    z-index: 2;
+    transform: translate(-50%, -50%);
+  }
 }
 
 section.hero h2 {
-  font-size: 46px;
   margin-bottom: 24px;
   @include font-serif;
+  font-size: 24px;
+  padding: 0 20px;
+
+  @include mq('tablet-small') {
+    font-size: 38px;
+    padding: 0 10vw;
+  }
+
+  @include mq('tablet-wide') {
+    font-size: 46px;
+    padding: 0 10vw;
+  }
+
 }
 
 section.hero a.tell-me-more {
-  @include font-sans-uppercase;
-  text-decoration: none;
-  color: $brand-color-lighter;
-  font-size: 12px;
-  line-height: 2.4;
-  transition: opacity 0.3s ease;
-  width: 200px;
-  margin: 0 auto;
-  cursor: pointer;
+
+  display: none;
+
+  @include mq('tablet-small') {
+    display: inherit;
+    @include font-sans-uppercase;
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 2.4;
+    transition: opacity 0.3s ease;
+    width: 200px;
+    margin: 0 auto;
+    cursor: pointer;
+    color: $brand-color-lighter;
+  }
+}
+
+.arrow {
+  stroke: $accent-color;
+
+  @include mq('tablet-small') {
+    stroke: $brand-color-lighter;
+  }
 }
 
 section.hero a.tell-me-more:hover {
