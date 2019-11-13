@@ -5,7 +5,11 @@ section.hero {
   padding-top: 100px;
   position: relative;
 
-  @include mq('tablet-small') {
+  @include mq('tablet') {
+    margin: 20px 60px;
+  }
+
+  @include mq('tablet-wide') {
     background-color: $text-color;
     color: $brand-color-lighter;
     position: relative;
@@ -36,7 +40,7 @@ section.hero:before {
   background-size: cover;
   margin-bottom: 20px;
 
-  @include mq('tablet-small') {
+  @include mq('tablet-wide') {
     content: ' ';
     display: block;
     position: absolute;
@@ -67,7 +71,7 @@ section.hero.stay:before {
 
 section.hero span {
 
-  @include mq('tablet-small') {
+  @include mq('tablet-wide') {
     position: absolute;
     top: 60%;
     left: 50%;
@@ -83,7 +87,7 @@ section.hero h2 {
   font-size: 24px;
   padding: 0 20px;
 
-  @include mq('tablet-small') {
+  @include mq('tablet') {
     font-size: 38px;
     padding: 0 10vw;
   }
@@ -99,7 +103,7 @@ section.hero a.tell-me-more {
 
   display: none;
 
-  @include mq('tablet-small') {
+  @include mq('tablet-wide') {
     display: inherit;
     @include font-sans-uppercase;
     text-decoration: none;
@@ -116,7 +120,7 @@ section.hero a.tell-me-more {
 .arrow {
   stroke: $accent-color;
 
-  @include mq('tablet-small') {
+  @include mq('tablet-wide') {
     stroke: $brand-color-lighter;
   }
 }

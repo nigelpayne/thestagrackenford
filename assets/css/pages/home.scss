@@ -1,14 +1,31 @@
 section.content.home h3 {
   margin: 10px 0 24px;
   text-align: center;
-  font-size: 40px;
+  font-size: 30px;
   @include font-serif;
+
+  @include mq('tablet') {
+    font-size: 36px;
+  }
+
+  @include mq('desktop') {
+    font-size: 40px;
+  }
 }
 
 /* INTRO */
 section.intro {
   text-align: center;
-  padding: 30px 19%;
+  padding: 20px;
+
+  @include mq('tablet') {
+    padding: 30px 10%;
+  }
+
+  @include mq('tablet-wide') {
+    padding: 30px 19%;
+  }
+
 }
 .intro img {
   width: 300px;
@@ -17,7 +34,12 @@ section.intro {
 
 .intro h3 {
   @include font-serif;
-  font-size: 24px;
+
+  @include mq('tablet-wide') {
+
+    font-size: 24px;
+
+  }
 }
 
 
@@ -27,28 +49,47 @@ section.information, section.large-nav {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin: 60px;
+  margin: 20px;
+
+  @include mq('tablet-wide') {
+    margin: 60px;
+  }
+
 }
 
 section.information div {
   width: 100%;
   text-align: center;
-  padding: 10px;
+  padding-bottom: 20px;
 
   @include mq('tablet-wide') {
     width: 30%;
+    padding-bottom: 0;
   }
 }
 
 section.information h4 {
   @include font-sans-uppercase;
   font-size: 24px;
-  margin-bottom: 24px;
+  margin-bottom: 12px;
+
+  @include mq('tablet-wide') {
+    margin-bottom: 24px;
+  }
 }
 
 /* large-nav */
 section.large-nav {
-  margin: 0 60px 60px;
+  margin: 20px;
+
+  @include mq('tablet') {
+    margin: 0 40px 40px;
+  }
+
+  @include mq('tablet-wide') {
+    margin: 0 60px 60px;
+  }
+
 }
 
 section.large-nav a {
@@ -56,9 +97,11 @@ section.large-nav a {
   text-align: center;
   background: $text-color;
   position: relative;
+  margin-bottom: 20px;
 
   @include mq('tablet') {
     width: 30%;
+    margin: 0;
   }
 }
 
@@ -91,8 +134,22 @@ section.large-nav a span {
   transform: translate(-50%, -50%);
   text-align: center;
   @include font-sans-uppercase;
-  font-size: 30px;
+  font-size: 24px;
   color: $brand-color-lighter;
+
+  @include mq('tablet-wide') {
+    font-size: 30px;
+  }
+}
+
+section.content img.roundel {
+  margin: 0;
+  width: 80px;
+
+  @include mq('tablet-wide') {
+    width: 120px;
+  }
+
 }
 
 section.container {

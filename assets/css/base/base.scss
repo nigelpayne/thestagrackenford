@@ -23,16 +23,20 @@ body {
 }
 
 section.content {
-  padding: 60px 18%;
+  padding: 40px 20px 20px;
   text-align: center;
   background: $brand-color-darker;
+
+  @include mq('tablet') {
+    padding: 60px 10%;
+  }
+
+  @include mq('tablet-wide') {
+    padding: 60px 18%;
+  }
+
 }
 
 section.content img {
   margin: 30px auto;
-}
-
-section.content img.roundel {
-  margin: 0;
-  width: 120px;
 }

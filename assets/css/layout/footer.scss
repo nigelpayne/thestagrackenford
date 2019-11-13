@@ -2,8 +2,15 @@
 footer {
   background-color: $text-color;
   color: $brand-color;
-  padding: 60px;
-  font-size: 18px;
+  padding: 40px;
+  font-size: 16px;
+  text-align: center;
+
+  @include mq('tablet-wide') {
+    padding: 60px;
+    font-size: 18px;
+    text-align: left;
+  }
 }
 
 footer .social-links li {
@@ -46,22 +53,42 @@ footer a:hover::after {
 }
 
 footer .container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  display: block;
   margin-bottom: 24px;
+  margin-top: 24px;
+
+  @include mq('tablet-wide') {
+    margin-top: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
 }
 
 footer .container .column {
-  width: 22%;
+  width: 100%;
+  margin-bottom: 40px;
+
+  @include mq('tablet-wide') {
+    width: 22%;
+  }
+
 }
 
 footer h5 {
   @include font-sans-uppercase;
   color: $brand-color-lighter;
-  height: 56px;
-  margin-bottom: 12px;
+  margin-bottom: 20px;
   font-size: 18px;
+
+  @include mq('tablet-wide') {
+    height: 56px;
+    margin-bottom: 12px;
+  }
+  @include mq('desktop') {
+    height: auto;
+    margin-bottom: 20px;
+  }
 }
 
 footer .copyright {

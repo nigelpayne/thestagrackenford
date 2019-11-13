@@ -169,6 +169,14 @@ header nav a:hover::after {
   width: calc(100% - 2px);
 }
 
+header nav a.selected {
+  text-decoration: underline;
+
+  @include mq('desktop-menu') {
+    text-decoration: none;
+  }
+}
+
 header nav a.selected:after {
   width: calc(100% - 2px);
 }
