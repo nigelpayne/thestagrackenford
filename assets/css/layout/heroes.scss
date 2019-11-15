@@ -29,7 +29,7 @@ section.hero:before {
   width: 100%;
   position: relative;
   padding-top: 56.25%;
-  background-image: url('../img/landscape-the-stag-rackenford.jpg');
+  background-image: url('../../uploads/the-stag-gin.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   // background-attachment: fixed;
@@ -56,17 +56,17 @@ section.hero:before {
 }
 
 section.hero.about:before {
-  background-image: url('../../uploads/the-stag-customers-1955.jpg');
-  background-position: 50% 50%;
+  background-image: url('../../uploads/the-stag-lounge.jpg');
+  // background-position: 50% 50%;
 }
 section.hero.event:before {
-  background-image: url('../img/the-stag-events.jpg');
+  background-image: url('../../uploads/the-stag-exmoor-gorse.jpg');
 }
 section.hero.food:before {
   background-image: url('../img/the-stag-menu.jpg');
 }
 section.hero.stay:before {
-  background-image: url('../../uploads/the-stag-fireplace-closeup.jpg');
+  background-image: url('../../uploads/the-stag-rackenford-village.jpg');
 }
 
 section.hero span {

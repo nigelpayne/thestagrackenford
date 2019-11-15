@@ -6,11 +6,9 @@ content-text: |2-
 
   ### We can host your next event
 
-  A short paragraph about this to go here.
-
   Email us to find out more [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Event)
 
-  ![events-at-the-stag-rackenford.jpg](/uploads/events-at-the-stag-rackenford.jpg)
+  ![the-stag-dining-table-angle.jpg](/uploads/the-stag-dining-table-angle.jpg)
 layout: home
 ---
 

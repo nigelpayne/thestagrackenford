@@ -80,7 +80,7 @@ section.information h4 {
 
 /* large-nav */
 section.large-nav {
-  margin: 20px;
+  margin: 40px;
 
   @include mq('tablet') {
     margin: 0 40px 40px;
@@ -97,7 +97,7 @@ section.large-nav a {
   text-align: center;
   background: $text-color;
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 
   @include mq('tablet') {
     width: 30%;
