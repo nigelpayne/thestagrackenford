@@ -1,0 +1,8 @@
+section.content.gallery {
+  padding: 140px 60px 60px;
+  background: darken( $text-color, 5% );
+}
+section.content.gallery img {
+  max-height: 80vh;
+  max-width: 80vw;
+}

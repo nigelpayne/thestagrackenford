@@ -21,14 +21,14 @@ layout: default
 
 </section>
 
-<section class="suppliers">
+<section class="suppliers stay">
 
 	<h2>Places nearby</h2>
 
 	<div class="supplier-container">
 		{% for stay in site.stay %}
 
-		<a href="{{ stay.link }}" class="supplier stay" target="_blank">
+		<a href="{{ stay.link }}" class="supplier" target="_blank">
 
 			<div class="supplier-image-container"><img src="{{ stay.image }}" alt="{{ stay.title }}"></div>
 

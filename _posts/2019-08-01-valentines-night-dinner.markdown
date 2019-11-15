@@ -8,4 +8,4 @@ Dinner followed by a Valentines Night 1970’s & 1980’s disco in Stag Hall. Fa
 
 Please book or email us on [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Valentines)
 
-![1970s-disco.jpg](/uploads/1970s-disco.jpg)
+![the-stag-disco.jpg](/uploads/the-stag-disco.jpg)

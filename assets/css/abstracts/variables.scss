@@ -1,0 +1,11 @@
+// Colours
+$brand-color: #faf2d5;
+$accent-color: #812024;
+$text-color: #2F2C27;
+$brand-color-lighter: lighten( $brand-color, 10% );
+$brand-color-darker: darken( $brand-color, 10% );
+
+$accent-color-green: #576946;
+$accent-color-blue: #2F5A8B;
+
+$lh: 1.4;

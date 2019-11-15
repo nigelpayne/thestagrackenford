@@ -1,0 +1,55 @@
+// Media queries
+
+$breakpoints: (
+    "phone":        400px,
+    "phone-wide":   480px,
+    "phablet":      560px,
+    "tablet-small": 640px,
+    "tablet":       768px,
+    "tablet-wide":  1024px,
+    "desktop":      1248px,
+    "desktop-menu": 1370px,
+    "desktop-wide": 1440px
+);
+@mixin mq($width, $type: min) {
+    @if map_has_key($breakpoints, $width) {
+        $width: map_get($breakpoints, $width);
+        @if $type == max {
+            $width: $width - 1px;
+        }
+        @media only screen and (#{$type}-width: $width) {
+            @content;
+        }
+    }
+}
+
+// Vertical center
+
+@mixin vertical-center {
+   position: absolute;
+   top: 50%;
+   -ms-transform: translateY(-50%);
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+
+
+// Fonts
+
+@mixin font-sans {
+    font-family: gill-sans-nova, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+@mixin font-sans-uppercase {
+  @include font-sans;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+@mixin font-serif {
+    font-family: ltc-caslon-pro, serif;
+    font-weight: 400;
+    font-style: normal;
+}
