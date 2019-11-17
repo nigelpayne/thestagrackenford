@@ -38,5 +38,9 @@ section.content {
 }
 
 section.content img {
-  margin: 30px auto;
+  margin: 20px auto 0;
+
+  @include mq('tablet') {
+    margin: 30px auto;
+  }
 }

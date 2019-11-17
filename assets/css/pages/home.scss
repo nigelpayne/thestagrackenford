@@ -1,7 +1,7 @@
 section.content.home h3 {
   margin: 10px 0 24px;
   text-align: center;
-  font-size: 30px;
+  font-size: 22px;
   @include font-serif;
 
   @include mq('tablet') {
@@ -150,36 +150,4 @@ section.content img.roundel {
     width: 120px;
   }
 
-}
-
-section.container {
-  display: flex;
-  padding: 60px;
-  text-align: center;
-  flex-wrap: wrap;
-  justify-content: space-between;
-
-  @include mq('tablet-wide') {
-    font-size: 20px;
-  }
-}
-
-section.container .column {
-  width: 100%;
-  position: relative;
-  margin-bottom: 120px;
-
-  @include mq('tablet-wide') {
-    width: 47%;
-    margin-bottom: 0;
-  }
-
-}
-
-section.container .column h3 {
-  text-transform: uppercase;
-  font-size: 40px;
-  letter-spacing: 0.1em;
-  font-weight: 500;
-  margin: 24px auto 12px;
 }
