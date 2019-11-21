@@ -8,6 +8,20 @@ now-image: "/uploads/the-stag-wood-paneling.jpg"
 now-text: Taper burn marks in the wood paneling. They are theorised to have been made
   as part of a folk superstition, then thought to protect the building from fire,
   lightning or even spirits.
+now-body: |-
+  ## Now
+
+  Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
+
+  ![the-stag-building-Nov-2019.jpg](/uploads/the-stag-building-Nov-2019.jpg)
+
+  ![the-stag-dining-table.jpg](/uploads/the-stag-dining-table.jpg)
+
+  ![the-stag-lounge.jpg](/uploads/the-stag-lounge.jpg)
+
+  ![the-stag-salcombe-gin.jpg](/uploads/the-stag-salcombe-gin.jpg)
+
+  ![the-stag-cobbled-tunnel.jpg](/uploads/the-stag-cobbled-tunnel.jpg)
 about-content:
   header: Rackenford Tales
   text: |-
@@ -27,17 +41,3 @@ Couple of paragraphs about the pub's history to go here. Donec id elit non mi po
 Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
 
 ![the-stag-customers-1955.jpg](/uploads/the-stag-customers-1955.jpg)
-
-## Now
-
-Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
-
-![the-stag-building-Nov-2019.jpg](/uploads/the-stag-building-Nov-2019.jpg)
-
-![the-stag-dining-table.jpg](/uploads/the-stag-dining-table.jpg)
-
-![the-stag-lounge.jpg](/uploads/the-stag-lounge.jpg)
-
-![the-stag-salcombe-gin.jpg](/uploads/the-stag-salcombe-gin.jpg)
-
-![the-stag-cobbled-tunnel.jpg](/uploads/the-stag-cobbled-tunnel.jpg)

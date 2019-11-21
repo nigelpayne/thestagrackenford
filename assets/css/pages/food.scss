@@ -1,6 +1,26 @@
 section.menus {
   text-align: center;
-  @include font-sans;
+  font-family: gill-sans-nova, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-bottom: 60px;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin: 24px 0 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: $accent-color;
+  }
+
+  .small-text {
+    font-size: 14px;
+    margin: 0 20px;
+
+    @include mq('tablet') {
+      margin: 0 60px;
+    }
+  }
+
 }
 
 
@@ -14,15 +34,26 @@ section.menus {
 /* Style the buttons that are used to open the tab content */
 .tab button {
   @include font-sans-uppercase;
-  font-size: 24px;
+  font-size: 12px;
   background-color: inherit;
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 14px 30px;
-  margin: 0 12px;
+  padding: 10px 16px;
+  margin: 0 4px;
   transition: 0.3s;
   display: inline-block;
+
+  @include mq('phablet') {
+    margin: 0 12px;
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+
+  @include mq('tablet') {
+    font-size: 18px;
+    padding: 14px 30px;
+  }
 }
 
 /* Change background color of buttons on hover */
@@ -39,8 +70,12 @@ section.menus {
 /* Style the tab content */
 .tabcontent {
   display: none;
-  padding: 60px 120px;
+  padding: 20px;
   animation: fadeEffect 1s; /* Fading effect takes 1 second */
+
+  @include mq('tablet') {
+    padding: 60px 120px;
+  }
 }
 .tabcontent p {
   margin: 0;
@@ -59,11 +94,25 @@ section.content.beer-bread {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 60px;
+  padding: 20px;
   align-items: center;
+  flex-direction: column-reverse;
+
+  @include mq('tablet') {
+    padding: 60px;
+  }
+
+  @include mq('tablet-wide') {
+    flex-direction: row-reverse;
+  }
 }
 section.beer-bread div {
-  flex: 1;
+  width: 100%;
+
+  @include mq('tablet-wide') {
+    flex: 1;
+    width: auto;
+  }
 }
 section.content img.beer-bread-image {
   margin: 0;
@@ -71,7 +120,16 @@ section.content img.beer-bread-image {
 
 section.beer-bread .beer-bread-text {
   text-align: left;
-  padding: 0 60px;
+  padding: 0 20px 20px;
+
+  @include mq('tablet-wide') {
+    text-align: left;
+    padding: 0 60px;
+  }
+}
+
+section.editable.beer-bread h2::after {
+  margin: 12px 0 24px;
 }
 
 /* ----- SUPPLIERS ------*/
@@ -79,22 +137,42 @@ section.beer-bread .beer-bread-text {
 section.suppliers {
   background: #1D1714;
   color: $brand-color;
-  padding: 60px;
+  padding: 20px;
   text-align: center;
+
+  @include mq('tablet') {
+    padding: 60px;
+  }
 
   .supplier-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    padding: 60px;
+    padding: 20px;
     align-items: baseline;
 
+    @include mq('tablet') {
+      padding: 60px;
+    }
+
     .supplier {
-      width: 17%;
+      width: 100%;
       margin-bottom: 32px;
       color: $brand-color;
       transition: color 0.3s ease;
       opacity: 1;
+
+      @include mq('phone-wide') {
+        width: 44%;
+      }
+
+      @include mq('tablet') {
+        width: 30%;
+      }
+
+      @include mq('tablet-wide') {
+        width: 17%;
+      }
 
       .supplier-image-container {
         margin-bottom: 12px;
@@ -122,6 +200,13 @@ section.suppliers.stay .supplier-container .supplier {
 
 section.suppliers h2 {
   @include font-sans-uppercase;
-  font-size: 32px;
+  font-size: 24px;
   margin-bottom: 30px;
+  margin-top: 24px;
+
+  @include mq('tablet') {
+    font-size: 32px;
+    margin-bottom: 30px;
+    margin-top: 0;
+  }
 }

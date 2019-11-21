@@ -4,38 +4,26 @@ date: 2019-10-30 09:55:00 +00:00
 position: 1
 ---
 
-* Ham hock terrine, home made piccalilli ... £XX
+### 2 courses £8 / Children £9
 
-* Mushroom & Tallegio target ... £XX
+* ...
 
-* Mackerel pate, homemade beer beard ... £XX
+* Roast shoulder of Rackenford lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
-* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips ... £XX
+* Roast top rump of beef, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
-* Chickpea & coriander burger, cheese, gherkin, hand cut chips ... £XX
+* ...
 
-* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg ... £XX
+* Homemade vanilla ice cream, with optional hot fudge sauce or raspberry coulis
 
-* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg ... £XX
+  * and shot of Psychopomp's coffee distillation to make it an Affogato - £2.5
 
-* Whole plaice, jersey royal potatoes, leeks, carrots and veg ... £XX
+* Eton mess, mixed berries, meringue and cream
 
-* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg ... £XX
+* Glayva chocolate brownie and cream, served warm or cold
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream ... £XX
+* Spiced rum sticky toffee pudding with toffee sauce and cream
 
-  * with hot fudge sauce ... £XX
+  * add shot of Morvenna rum - £2.5 supplement
 
-* Eton mess, berries, meringue and cream ... £XX
-
-* Chocolate brownie, chocolate, coffee, hazelnut and cream ... £XX
-
-* Spiced rum sticky toffee pudding with toffee sauce and cream ... £XX
-
-  * with tot of Morvenna rum ... £XX
-
-* Cheese plate ... £XX
-
-  * with glass of port ... £XX
-
-* Tea/Coffee with biscotti ... £XX
+* Tea/Coffee - £3 supplement

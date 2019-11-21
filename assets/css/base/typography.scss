@@ -46,6 +46,15 @@ section.editable h3
   margin: 32px 0 12px;
 }
 
+section.editable h2::after {
+  content: '';
+  display: block;
+  width: 90px;
+  height: 2px;
+  background-color: $accent-color;
+  margin: 12px auto 24px;
+}
+
 section.editable h4,
 section.editable h5
  {
@@ -54,13 +63,25 @@ section.editable h5
 }
 
 section.content h1 {
-  font-size: 40px;
+  font-size: 32px;
+
+  @include mq('phone') {
+    font-size: 40px;
+  }
 }
 section.content h2 {
-  font-size: 32px;
+  font-size: 24px;
+
+  @include mq('phone') {
+    font-size: 32px;
+  }
 }
 section.content h3 {
-  font-size: 28px;
+  font-size: 24px;
+
+  @include mq('phone') {
+    font-size: 28px;
+  }
 }
 section.content h4 {
   font-size: 24px;

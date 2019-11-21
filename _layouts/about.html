@@ -38,6 +38,12 @@ layout: default
 	</div>
 </section>
 
+<section class="content editable">
+
+	{{ page.now-body | markdownify}}
+
+</section>
+
 <section class="content about">
 	<h3>{{ page.about-content.header }}</h3>
 	{{ page.about-content.text | markdownify}}
