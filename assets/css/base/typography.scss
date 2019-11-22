@@ -50,8 +50,8 @@ section.editable h2::after {
   content: '';
   display: block;
   width: 90px;
-  height: 2px;
-  background-color: $accent-color;
+  height: 1px;
+  background-color: lighten( $text-color, 30% );
   margin: 12px auto 24px;
 }
 

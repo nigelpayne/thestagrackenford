@@ -8,42 +8,42 @@ position: 0
 
 * ...
 
-* Ham hock terrine, home made piccalilli - £6.5
+* Ham hock terrine, home made piccalilli *£6.5*
 
-* Mushroom & Tallegio target - £6.5
+* Mushroom & Tallegio target *£6.5*
 
-* Mackerel pate, homemade beer beard - £6.5
-
-* ...
-
-* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips - £14
-
-* Chickpea & coriander burger, cheese, gherkin, hand cut chips - £14
-
-* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg - £16.5
-
-* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg - £16.5
-
-* Whole plaice, jersey royal potatoes, leeks, carrots and veg - £16.5
-
-* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg - £18
+* Mackerel pate, homemade beer beard *£6.5*
 
 * ...
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream - £4
+* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips *£14*
 
-  * with hot fudge sauce - £5.5
+* Chickpea & coriander burger, cheese, gherkin, hand cut chips *£14*
 
-* Eton mess, berries, meringue and cream - £6.5
+* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg *£16.5*
 
-* Chocolate brownie, chocolate, coffee, hazelnut and cream - £6.5
+* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg *£16.5*
 
-* Spiced rum sticky toffee pudding with toffee sauce and cream - £6.5
+* Whole plaice, jersey royal potatoes, leeks, carrots and veg *£16.5*
 
-  * with shot of Morvenna rum - £9.5
+* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg *£18*
 
-* Cheese plate - £7
+* ...
 
-  * with glass of port - £10
+* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream *£4*
 
-* Tea/Coffee with biscotti - £3.5
+  * with hot fudge sauce *£5.5*
+
+* Eton mess, berries, meringue and cream *£6.5*
+
+* Chocolate brownie, chocolate, coffee, hazelnut and cream *£6.5*
+
+* Spiced rum sticky toffee pudding with toffee sauce and cream *£6.5*
+
+  * with shot of Morvenna rum *£9.5*
+
+* Cheese plate *£7*
+
+  * with glass of port *£10*
+
+* Tea/Coffee with biscotti *£3.5*

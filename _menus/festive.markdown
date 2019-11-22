@@ -4,7 +4,8 @@ date: 2019-10-30 09:54:00 +00:00
 position: 2
 ---
 
-### 2 courses £21 / 3 courses £25
+### 2 courses £21
+### 3 courses £25
 
 * ...
 
@@ -40,4 +41,4 @@ position: 2
 
 * ...
 
-* Available from 1st December
+* *Available from 1st December*

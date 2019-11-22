@@ -45,6 +45,15 @@ section.content.about h3 {
   }
 }
 
+section.content.about h3::after {
+  content: '';
+  display: block;
+  width: 90px;
+  height: 1px;
+  background-color: #006473;
+  margin: 24px auto 32px;
+}
+
 section.content.about {
   // background: $accent-color-blue;
   background: #0A262B;

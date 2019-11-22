@@ -84,6 +84,18 @@ section.menus {
   margin-bottom: 12px;
 }
 
+.tabcontent em {
+  font-size: 16px;
+  color: lighten( $text-color, 30% );
+  font-style: normal;
+  display: block;
+
+  @include mq('phablet') {
+    margin-left: 8px;
+    display: inline-block;
+  }
+}
+
 /* Go from zero to full opacity */
 @keyframes fadeEffect {
   from {opacity: 0;}
@@ -128,8 +140,12 @@ section.beer-bread .beer-bread-text {
   }
 }
 
+section.editable .beer-bread-text h2 {
+  margin: 0;
+}
+
 section.editable.beer-bread h2::after {
-  margin: 12px 0 24px;
+  margin: 20px 0 24px;
 }
 
 /* ----- SUPPLIERS ------*/
@@ -142,6 +158,11 @@ section.suppliers {
 
   @include mq('tablet') {
     padding: 60px;
+  }
+
+  p {
+    max-width: 800px;
+    margin: 0 auto 12px;
   }
 
   .supplier-container {

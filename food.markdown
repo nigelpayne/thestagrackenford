@@ -16,4 +16,6 @@ food-content:
 layout: food
 ---
 
-Short paragraph about the food to go here.
+Sourced locally where possible, our aim is to provide great tasting food. Farmers no more than 10 miles away supply us with vegetables, eggs, and beef.
+
+With drinks we aim to support small businesses and suppliers local to the community.

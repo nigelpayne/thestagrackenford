@@ -4,7 +4,9 @@ date: 2019-10-30 09:55:00 +00:00
 position: 1
 ---
 
-### 2 courses £8 / Children £9
+### 2 courses £18
+
+*Children £9*
 
 * ...
 
@@ -16,7 +18,7 @@ position: 1
 
 * Homemade vanilla ice cream, with optional hot fudge sauce or raspberry coulis
 
-  * and shot of Psychopomp's coffee distillation to make it an Affogato - £2.5
+  * add shot of Psychopomp's coffee distillation to make it an Affogato *£2.5 supplement*
 
 * Eton mess, mixed berries, meringue and cream
 
@@ -24,6 +26,6 @@ position: 1
 
 * Spiced rum sticky toffee pudding with toffee sauce and cream
 
-  * add shot of Morvenna rum - £2.5 supplement
+  * add shot of Morvenna rum *£2.5 supplement*
 
-* Tea/Coffee - £3 supplement
+* Tea/Coffee *£3 supplement*
