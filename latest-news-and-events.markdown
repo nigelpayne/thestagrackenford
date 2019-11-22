@@ -1,8 +1,9 @@
 ---
 title: Latest news and events
 date: 2019-10-30 10:32:00 +00:00
-description: Our programme is packed with entertainment from the best live music in Devon to quiz nights and community orientated events.
 permalink: "/events/"
+description: Our programme is packed with entertainment from the best live music in
+  Devon to quiz nights and community orientated events.
 layout: events
 ---
 
