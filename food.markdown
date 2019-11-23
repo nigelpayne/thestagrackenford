@@ -16,6 +16,10 @@ food-content:
 layout: food
 ---
 
-Sourced locally where possible, our aim is to provide great tasting food. Farmers no more than 10 miles away supply us with vegetables, eggs, and beef.
+We source our food and drink from small businesses and suppliers local to the community with the aim to provide great tasting food.
 
-With drinks we aim to support small businesses and suppliers local to the community.
+* Eggs from Andrew & Sally Meikle at Great Whitstone Farm, Meshaw
+
+* Lamb from Francis & Judy Lister, Meshaw
+
+* Lamb from Helen Cox, Rackenford

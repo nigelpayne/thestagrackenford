@@ -151,8 +151,7 @@ section.editable.beer-bread h2::after {
 /* ----- SUPPLIERS ------*/
 
 section.suppliers {
-  background: #1D1714;
-  color: $brand-color;
+  // background: $brand-color-lighter;
   padding: 20px;
   text-align: center;
 
@@ -163,6 +162,7 @@ section.suppliers {
   p {
     max-width: 800px;
     margin: 0 auto 12px;
+    color: $text-color;
   }
 
   .supplier-container {
@@ -170,7 +170,7 @@ section.suppliers {
     flex-wrap: wrap;
     justify-content: space-between;
     padding: 20px;
-    align-items: baseline;
+    align-items: center;
 
     @include mq('tablet') {
       padding: 60px;
@@ -179,7 +179,7 @@ section.suppliers {
     .supplier {
       width: 100%;
       margin-bottom: 32px;
-      color: $brand-color;
+      // color: $brand-color;
       transition: color 0.3s ease;
       opacity: 1;
 
@@ -211,7 +211,7 @@ section.suppliers.stay .supplier-container .supplier {
 }
 
 .supplier:hover {
-    color: $brand-color-lighter;
+    // color: $brand-color-darker;
 }
 .supplier:hover img {
     -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
@@ -224,6 +224,7 @@ section.suppliers h2 {
   font-size: 24px;
   margin-bottom: 30px;
   margin-top: 24px;
+  color: $accent-color;
 
   @include mq('tablet') {
     font-size: 32px;
