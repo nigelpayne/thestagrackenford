@@ -38,6 +38,11 @@ layout: default
 	</div>
 
 	{% endfor %}
+
+	<div class="small-text">
+		<p>Please let us know if you have any allergies or dietary requirements. We will be happy to advise which dishes are suitable.
+		Unfortunatley we cannot guarantee the absence of traces of nuts and other allergens.</p>
+	</div>
 </section>
 
 <section class="content editable beer-bread">
@@ -54,14 +59,16 @@ layout: default
 
 	<h2>Our suppliers</h2>
 
+	{{ content }}
+
 	<div class="supplier-container">
 		{% for supplier in site.suppliers %}
 
 		<a href="{{ supplier.link }}" class="supplier" target="_blank">
 
-			<div class="supplier-image-container"><img src="{{ supplier.image }}" alt="{{ supplier.title }}"></div>
-
-			<h3>{{ supplier.title }}</h3>
+			<div class="supplier-image-container">
+				<img src="{{ supplier.image }}" alt="{{ supplier.title }}">
+			</div>
 
 		</a>
 

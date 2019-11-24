@@ -4,38 +4,41 @@ date: 2019-10-30 09:54:00 +00:00
 position: 2
 ---
 
-* Ham hock terrine, home made piccalilli ... £XX
+### 2 courses £21
+### 3 courses £25
 
-* Mushroom & Tallegio target ... £XX
+* ...
 
-* Mackerel pate, homemade beer beard ... £XX
+* Parsnip & pear soup, with parsnip crisp
 
-* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips ... £XX
+* Smoked ham hock terrine with piccalilli
 
-* Chickpea & coriander burger, cheese, gherkin, hand cut chips ... £XX
+* Fish quenelles with watercress sauce
 
-* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg ... £XX
+* Mushroom & tallegio tart, rocket salad
 
-* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg ... £XX
+* ...
 
-* Whole plaice, jersey royal potatoes, leeks, carrots and veg ... £XX
+* Traditional roast turkey, our own sausage stuffing
 
-* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg ... £XX
+* Pan roasted hake, leek and potatoes
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream ... £XX
+* Roots and chestnut wellington
 
-  * with hot fudge sauce ... £XX
+* Venison, celeriac and mushroom pudding
 
-* Eton mess, berries, meringue and cream ... £XX
+* ...
 
-* Chocolate brownie, chocolate, coffee, hazelnut and cream ... £XX
+* Christmas pudding, brandy creme anglaise
 
-* Spiced rum sticky toffee pudding with toffee sauce and cream ... £XX
+* Traditional trifle made with fresh custard
 
-  * with tot of Morvenna rum ... £XX
+* Christmas ice cream, coconut, rum soaked fruits
 
-* Cheese plate ... £XX
+* Chocolate Mousse
 
-  * with glass of port ... £XX
+* Cheese plate
 
-* Tea/Coffee with biscotti ... £XX
+* ...
+
+* *Available from 1st December*

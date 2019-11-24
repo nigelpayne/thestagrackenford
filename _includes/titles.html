@@ -1,0 +1,7 @@
+{% if page.url == "/" %}{{ site.title }}
+{% elsif page.url == "/about/" %}About the {{ site.title }}
+{% elsif page.url == "/events/" %}Events at {{ site.title }}
+{% elsif page.url == "/food/" %}Food and drink at {{ site.title }}
+{% elsif page.url == "/stay/" %}Stay at {{ site.title }}
+{% elsif page.url == "/gallery/" %}Images of {{ site.title }}
+{% else %}{{ site.title }}{% endif %}

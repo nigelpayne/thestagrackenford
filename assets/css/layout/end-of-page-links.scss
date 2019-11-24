@@ -1,15 +1,20 @@
 
 a.endpagelink {
   @include font-sans-uppercase;
-  font-size: 40px;
+  font-size: 24px;
   // margin: 60px;
-  padding: 200px 0;
+  padding: 120px 0;
   text-align: center;
   display: block;
   color: $brand-color-lighter;
   background: $text-color;
   position: relative;
   overflow: hidden;
+
+  @include mq('tablet') {
+    font-size: 40px;
+    padding: 200px 0;
+  }
 }
 
 a.endpagelink:before {
@@ -45,11 +50,16 @@ a.endpagelink span {
   top: 50%;
   left: 50%;
   width: 100%;
-  padding: 0 200px;
+  padding: 20px;
   z-index: 2;
   transform: translate(-50%, -50%);
-  opacity: 0.5;
+  opacity: 1;
   transition: opacity 0.5s ease;
+
+  @include mq('tablet') {
+    padding: 0 20%;
+    opacity: 0.5;
+  }
 }
 
 a.endpagelink:hover span {

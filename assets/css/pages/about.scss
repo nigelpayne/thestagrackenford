@@ -1,8 +1,57 @@
+section.container {
+  display: flex;
+  padding: 60px;
+  text-align: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @include mq('tablet') {
+    font-size: 20px;
+  }
+}
+
+section.container .column {
+  width: 100%;
+  position: relative;
+  margin-bottom: 120px;
+
+  @include mq('tablet') {
+    width: 47%;
+    margin-bottom: 0;
+  }
+
+}
+
+section.container .column h3 {
+  text-transform: uppercase;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  font-weight: 500;
+  margin: 24px auto 12px;
+
+  @include mq('tablet') {
+    font-size: 40px;
+  }
+}
+
 section.content.about h3 {
   margin: 10px 0 24px;
   text-align: center;
-  font-size: 40px;
+  font-size: 24px;
   @include font-sans-uppercase;
+
+  @include mq('tablet') {
+    font-size: 40px;
+  }
+}
+
+section.content.about h3::after {
+  content: '';
+  display: block;
+  width: 90px;
+  height: 1px;
+  background-color: #006473;
+  margin: 24px auto 32px;
 }
 
 section.content.about {
@@ -14,8 +63,30 @@ section.content.about {
 section.then-and-now {
   background: $text-color;
   color: $brand-color;
-  padding: 120px 240px 60px;
+  padding: 20px;
+
+  @include mq('phablet') {
+    padding: 60px;
+  }
+
+  @include mq('tablet') {
+    padding: 120px 16% 60px;
+  }
 }
+
+
+section.container.then-and-now .column {
+  margin: 0 0 20px 0;
+}
+
+section.container.then-and-now .column:first-child {
+  margin: 80px 0 120px;
+
+  @include mq('tablet') {
+    margin: 0 0 20px 0;
+  }
+}
+
 section.then-and-now h3 {
   color: $brand-color-lighter;
 }

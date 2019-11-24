@@ -1,5 +1,5 @@
 ---
-title: The Stag - Rackenford, Devon - Gastropub
+title: The Stag Rackenford, Devon - English Country Inn
 timezone: Europe/London
 collections:
   posts:
@@ -52,7 +52,9 @@ defaults:
     image: ''
     link: ''
 email: eat@thestagdevon.co.uk
-description: A new site
+description: An English country inn set in the heart of the Devon countryside, just
+  off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in
+  Devon.
 footer_description_text: Rumoured to be the oldest pub in Devon. TripAdvisor Certificate
   of Excellence 2019. Dog friendly.
 baseurl: 

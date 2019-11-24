@@ -170,7 +170,7 @@ header nav a:hover::after {
 }
 
 header nav a.selected {
-  text-decoration: underline;
+  text-decoration: line-through;
 
   @include mq('desktop-menu') {
     text-decoration: none;
