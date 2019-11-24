@@ -64,6 +64,9 @@ footer .container {
     justify-content: space-between;
   }
 }
+footer .roundel {
+  width: 80px;
+}
 
 footer .container .column {
   width: 100%;
@@ -71,6 +74,7 @@ footer .container .column {
 
   @include mq('tablet-wide') {
     width: 22%;
+    margin-bottom: 12px;
   }
 
 }
