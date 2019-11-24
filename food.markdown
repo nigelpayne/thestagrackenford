@@ -16,10 +16,6 @@ food-content:
 layout: food
 ---
 
-We source our food and drink from small businesses and suppliers local to the community with the aim to provide great tasting food.
+We source our food and drink from small businesses and suppliers local to the community. Our eggs are from Andrew & Sally Meikle at Great Whitstone Farm, Meshaw. Lamb from Francis & Judy Lister, Meshaw and from Helen Cox, Rackenford.
 
-* Eggs from Andrew & Sally Meikle at Great Whitstone Farm, Meshaw
-
-* Lamb from Francis & Judy Lister, Meshaw
-
-* Lamb from Helen Cox, Rackenford
+Below is a selection of our suppliers:

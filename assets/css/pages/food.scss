@@ -141,7 +141,11 @@ section.beer-bread .beer-bread-text {
 }
 
 section.editable .beer-bread-text h2 {
-  margin: 0;
+  margin: 30px 0 0 0;
+
+  @include mq('tablet-wide') {
+    margin: 0;
+  }
 }
 
 section.editable.beer-bread h2::after {
@@ -172,19 +176,19 @@ section.suppliers {
     padding: 20px;
     align-items: center;
 
-    @include mq('tablet') {
+    @include mq('tablet-wide') {
       padding: 60px;
     }
 
     .supplier {
-      width: 100%;
+      width: 46%;
       margin-bottom: 32px;
       // color: $brand-color;
       transition: color 0.3s ease;
       opacity: 1;
 
       @include mq('phone-wide') {
-        width: 44%;
+        width: 46%;
       }
 
       @include mq('tablet') {
