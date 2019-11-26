@@ -97,6 +97,12 @@ section.hero h2 {
     padding: 0 10vw;
   }
 
+  @include mq('desktop-wide') {
+    font-size: 58px;
+    max-width: 1440px;
+    margin: 0 auto 24px;
+  }
+
 }
 
 section.hero a.tell-me-more {
