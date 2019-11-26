@@ -13,6 +13,8 @@ now-body: |-
 
   ![the-stag-building-Nov-2019.jpg](/uploads/the-stag-building-Nov-2019.jpg)
 
+  ![the-stag-fireplace.jpg](/uploads/the-stag-fireplace.jpg)
+
   ![the-stag-dining-table.jpg](/uploads/the-stag-dining-table.jpg)
 
   ![the-stag-lounge.jpg](/uploads/the-stag-lounge.jpg)
