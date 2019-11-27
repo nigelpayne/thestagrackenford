@@ -57,16 +57,18 @@ section.hero:before {
 
 section.hero.about:before {
   background-image: url('../../uploads/the-stag-lounge.jpg');
-  // background-position: 50% 50%;
+  background-position: 50% 20%;
 }
 section.hero.event:before {
   background-image: url('../../uploads/the-stag-exmoor-gorse.jpg');
 }
 section.hero.food:before {
-  background-image: url('../img/the-stag-menu.jpg');
+  background-image: url('../../uploads/the-stag-fish-and-chips.jpg');
+  background-position: 50% 20%;
 }
 section.hero.stay:before {
   background-image: url('../../uploads/the-stag-rackenford-village.jpg');
+  background-position: 50% 20%;
 }
 
 section.hero span {

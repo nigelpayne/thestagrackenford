@@ -1,5 +1,5 @@
 ---
-title: Spend sometime in Rackenford or nearby
+title: Spend some time in Rackenford or nearby
 permalink: "/stay/"
 layout: stay
 ---

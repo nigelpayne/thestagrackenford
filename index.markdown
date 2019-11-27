@@ -8,10 +8,10 @@ content-text: |2-
 
   Email us to find out more [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Event)
 
-  ![the-stag-dining-table-angle.jpg](/uploads/the-stag-dining-table-angle.jpg)
+  ![The Stag Rackenford can host your event](/uploads/the-stag-can-host-your-event.jpg)
 layout: home
 ---
 
-![the-stag-building.png](/uploads/the-stag-building.png)
+![The Stag Rackenford Old English Pub](/uploads/the-stag-building.png)
 
 ### Set in the heart of the Devon countryside, The Stag Rackenford is rumoured to be the oldest pub in Devon, dating back to the 12th Century. Restored and now run by Steve and Oliver, both are passionate about serving freshly prepared great tasting food and an eclectic range of drinks.
