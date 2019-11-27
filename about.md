@@ -27,7 +27,6 @@ now-body: |-
 
   ![Yard The Stag Rackenford](/uploads/the-stag-backyard.jpg)
 
-  ![Cobbled floor tunnel at The Stag Rackenford](/uploads/the-stag-cobbled-tunnel.jpg)
 about-content:
   header: Rackenford Tales
   text: |-

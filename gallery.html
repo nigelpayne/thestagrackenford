@@ -6,6 +6,8 @@ layout: gallery
 
 {% for gallery in site.gallery %}
 
-  <img src="{{ gallery.image }}" alt="{{ gallery.title }}">
+  <div class="image-wrapper">
+    <img src="{{ gallery.image }}" alt="{{ gallery.title }}">
+  </div>
 
 {% endfor %}
