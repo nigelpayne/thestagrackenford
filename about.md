@@ -26,7 +26,6 @@ now-body: |-
   ![Table at The Stag Rackenford](/uploads/the-stag-window-table.jpg)
 
   ![Yard The Stag Rackenford](/uploads/the-stag-backyard.jpg)
-
 about-content:
   header: Rackenford Tales
   text: |-
