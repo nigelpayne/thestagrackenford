@@ -8,7 +8,7 @@ content-text: |2-
 
   Email us to find out more [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Event)
 
-  ![The Stag Rackenford can host your event](/uploads/the-stag-can-host-your-event.jpg)
+  ![The Stag Rackenford can host your event](/uploads/the-stag-gin.jpg)
 layout: home
 ---
 
