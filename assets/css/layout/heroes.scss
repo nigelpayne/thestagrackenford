@@ -30,6 +30,7 @@ section.hero:before {
   position: relative;
   padding-top: 56.25%;
   background-image: url('../../uploads/the-stag-gin.jpg');
+  background-image: url('../../uploads/the-stag-can-host-your-event.jpg');
   background-repeat: no-repeat;
   background-position: 50% 0;
   // background-attachment: fixed;
@@ -57,16 +58,19 @@ section.hero:before {
 
 section.hero.about:before {
   background-image: url('../../uploads/the-stag-lounge.jpg');
-  // background-position: 50% 50%;
+  background-position: 50% 20%;
 }
 section.hero.event:before {
-  background-image: url('../../uploads/the-stag-exmoor-gorse.jpg');
+  background-image: url('../../uploads/the-stag-fireplace.jpg');
+  background-position: 50% 20%;
 }
 section.hero.food:before {
-  background-image: url('../img/the-stag-menu.jpg');
+  background-image: url('../../uploads/the-stag-fish-and-chips.jpg');
+  background-position: 50% 20%;
 }
 section.hero.stay:before {
   background-image: url('../../uploads/the-stag-rackenford-village.jpg');
+  background-position: 50% 20%;
 }
 
 section.hero span {
@@ -99,7 +103,7 @@ section.hero h2 {
 
   @include mq('desktop-wide') {
     font-size: 58px;
-    max-width: 1440px;
+    max-width: 1640px;
     margin: 0 auto 24px;
   }
 

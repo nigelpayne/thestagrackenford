@@ -38,8 +38,11 @@ a.endpagelink:before {
   z-index: 1;
 }
 
-a.endpagelink.food:before {
+a.endpagelink.food2:before {
   background-image: url('../img/the-stag-menu.jpg');
+}
+a.endpagelink.food:before {
+  background-image: url('../img/the-stag-menu-2.jpg');
 }
 a.endpagelink.event:before {
   background-image: url('../img/the-stag-events.jpg');

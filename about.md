@@ -11,17 +11,21 @@ now-body: |-
 
   Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
 
-  ![the-stag-building-Nov-2019.jpg](/uploads/the-stag-building-Nov-2019.jpg)
+  ![The Stag, Rackenford Devon November 2019](/uploads/the-stag-building-Nov-2019.jpg)
 
-  ![the-stag-fireplace.jpg](/uploads/the-stag-fireplace.jpg)
+  ![The Stag bar](/uploads/the-stag-bar.jpg)
 
-  ![the-stag-dining-table.jpg](/uploads/the-stag-dining-table.jpg)
+  ![The Stag warm fireplace](/uploads/the-stag-fireplace.jpg)
 
-  ![the-stag-lounge.jpg](/uploads/the-stag-lounge.jpg)
+  ![The Stag dining table](/uploads/the-stag-can-host-your-event.jpg)
 
-  ![the-stag-salcombe-gin.jpg](/uploads/the-stag-salcombe-gin.jpg)
+  ![The Stag lounge](/uploads/the-stag-lounge.jpg)
 
-  ![the-stag-cobbled-tunnel.jpg](/uploads/the-stag-cobbled-tunnel.jpg)
+  ![The Stag lounge](/uploads/the-stag-lounge2.jpg)
+
+  ![Table at The Stag Rackenford](/uploads/the-stag-window-table.jpg)
+
+  ![Yard The Stag Rackenford](/uploads/the-stag-backyard.jpg)
 about-content:
   header: Rackenford Tales
   text: |-
@@ -40,4 +44,4 @@ Couple of paragraphs about the pub's history to go here. Donec id elit non mi po
 
 Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
 
-![the-stag-old.jpg](/uploads/the-stag-old.jpg)
+![The Stag building in the past](/uploads/the-stag-old.jpg)
