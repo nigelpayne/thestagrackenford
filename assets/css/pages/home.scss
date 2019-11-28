@@ -30,6 +30,12 @@ section.intro {
 .intro img {
   width: 300px;
   margin: 0 auto;
+  opacity: 0;
+  transition: opacity 0.5s ease-in 0.25s;
+}
+
+.intro img.in-view {
+  opacity: 1;
 }
 
 .intro h3 {

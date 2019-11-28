@@ -44,3 +44,12 @@ section.content img {
     margin: 30px auto;
   }
 }
+
+section.content p img {
+  opacity: 0;
+  transition: opacity 0.5s ease-in 0.25s;
+}
+
+section.content p img.in-view {
+  opacity: 1;
+}

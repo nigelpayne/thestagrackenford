@@ -1,4 +1,4 @@
-const headers = document.querySelectorAll("p img")
+const headers = document.querySelectorAll("p img, div.image-wrapper")
 
 const observer = new IntersectionObserver(entries => {
 entries.forEach(entry => {

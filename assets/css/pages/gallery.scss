@@ -18,6 +18,20 @@ section.content.gallery {
   }
 }
 
+section.content.gallery .image-wrapper {
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+}
+
+section.content.gallery .image-wrapper:nth-child(even) {
+  opacity: 0;
+  transition: opacity 0.5s ease-in 0.25s;
+}
+
+section.content.gallery .image-wrapper.in-view {
+  opacity: 1;
+}
+
 section.content.gallery img {
   margin: 0;
   object-fit: cover;
