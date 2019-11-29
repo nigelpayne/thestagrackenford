@@ -41,6 +41,16 @@ layout: default
 	<a href="/events/" class="green-bg"><img src="/assets/img/upcoming-events.jpg" alt="Events and latest news"><span>Upcoming events</span></a>
 </section>
 
+<section class="content editable steve-oliver">
+	<div class="steve-oliver-text">
+		<h2>{{ page.you-content.header }}</h2>
+		{{ page.you-content.text | markdownify}}
+	</div>
+	<div>
+		<img src="{{ page.you-content.image }}" alt="{{ page.you-content.header }}" class="steve-oliver-image fade-in-img">
+	</div>
+</section>
+
 <section class="content home">
 
 	<img src="/assets/img/The-Stag-Rackenford-Roundel.svg" alt="The Stag Rackenford" class="roundel">

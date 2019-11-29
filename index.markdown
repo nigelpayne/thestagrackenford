@@ -9,6 +9,11 @@ content-text: |2-
   Email us to find out more [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Event)
 
   ![The Stag Rackenford can host your event](/uploads/the-stag-gin.jpg)
+you-content:
+  header: Steve and Oliver
+  text: "Intro line. e.g. Both bought The Stag in XXXX and started renovation.  \n\nSteve
+    is XXXX.  \n\nOliver XXXX.  "
+  image: "/uploads/steve-and-oliver-the-stag.jpg"
 layout: home
 ---
 
