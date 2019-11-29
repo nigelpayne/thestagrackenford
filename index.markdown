@@ -11,12 +11,8 @@ content-text: |2-
   ![The Stag Rackenford can host your event](/uploads/the-stag-gin.jpg)
 you-content:
   header: Steve and Oliver
-  text: |-
-    Intro line. e.g. Both bought The Stag in XXXX and started renovation.  
-
-    Steve is XXXX.  
-
-    Oliver XXXX.  
+  text: "Intro line. e.g. Both bought The Stag in XXXX and started renovation.  \n\nSteve
+    is XXXX.  \n\nOliver XXXX.  "
   image: "/uploads/steve-and-oliver-the-stag.jpg"
 layout: home
 ---
