@@ -50,6 +50,15 @@ section.content p img {
   transition: opacity 0.5s ease-in 0.25s;
 }
 
-section.content p img.in-view {
+section.content img.in-view {
+  opacity: 1;
+}
+
+section.content img.fade-in-img {
+  opacity: 0;
+  transition: opacity 0.5s ease-in 0.25s;
+}
+
+section.content img.fade-in-img.in-view {
   opacity: 1;
 }

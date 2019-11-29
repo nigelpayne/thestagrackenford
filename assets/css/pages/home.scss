@@ -148,6 +148,10 @@ section.large-nav a span {
   }
 }
 
+section.content.home {
+  background-color: $brand-color;
+}
+
 section.content img.roundel {
   margin: 0;
   width: 80px;
@@ -156,4 +160,55 @@ section.content img.roundel {
     width: 120px;
   }
 
+}
+
+section.content.steve-oliver {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+  align-items: center;
+  flex-direction: column-reverse;
+
+  @include mq('tablet') {
+    padding: 60px;
+  }
+
+  @include mq('tablet-wide') {
+    flex-direction: row-reverse;
+  }
+}
+section.steve-oliver div {
+  width: 100%;
+
+  @include mq('tablet-wide') {
+    flex: 1;
+    width: auto;
+  }
+}
+section.content img.steve-oliver-image {
+  margin: 0;
+  max-height: 75vh;
+}
+
+section.steve-oliver .steve-oliver-text {
+  text-align: left;
+  padding: 0 20px 20px;
+
+  @include mq('tablet-wide') {
+    text-align: left;
+    padding: 0 60px;
+  }
+}
+
+section.editable .steve-oliver-text h2 {
+  margin: 30px 0 0 0;
+
+  @include mq('tablet-wide') {
+    margin: 0;
+  }
+}
+
+section.editable.steve-oliver h2::after {
+  margin: 20px 0 24px;
 }
