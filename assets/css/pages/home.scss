@@ -174,14 +174,14 @@ section.content.steve-oliver {
     padding: 60px;
   }
 
-  @include mq('tablet-wide') {
+  @include mq('tablet') {
     flex-direction: row-reverse;
   }
 }
 section.steve-oliver div {
   width: 100%;
 
-  @include mq('tablet-wide') {
+  @include mq('tablet') {
     flex: 1;
     width: auto;
   }
@@ -192,11 +192,9 @@ section.content img.steve-oliver-image {
 }
 
 section.steve-oliver .steve-oliver-text {
-  text-align: left;
   padding: 0 20px 20px;
 
-  @include mq('tablet-wide') {
-    text-align: left;
+  @include mq('tablet') {
     padding: 0 60px;
   }
 }
@@ -204,11 +202,11 @@ section.steve-oliver .steve-oliver-text {
 section.editable .steve-oliver-text h2 {
   margin: 30px 0 0 0;
 
-  @include mq('tablet-wide') {
+  @include mq('tablet') {
     margin: 0;
   }
 }
 
 section.editable.steve-oliver h2::after {
-  margin: 20px 0 24px;
+  margin: 20px auto 24px;
 }
