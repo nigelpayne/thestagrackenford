@@ -6,7 +6,7 @@ date-of-event: December - January
 
 Christmas Eve 12:00 - 20:00
 Christmas Day 11:30 - 13:30
-Boxing Day 11:30 - 20:00
+Boxing Day 12:00 - 20:00
 27th December - Normal hours
 28th December - Normal hours
 29th December - Normal hours
