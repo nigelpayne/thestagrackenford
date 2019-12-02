@@ -9,8 +9,6 @@ now-text: Taper burn marks in the wood paneling, thought to protect the building
 now-body: |-
   ## Now
 
-  Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
-
   ![The Stag, Rackenford Devon November 2019](/uploads/the-stag-building-Nov-2019.jpg)
 
   ![The Stag bar](/uploads/the-stag-bar.jpg)
