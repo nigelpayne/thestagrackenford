@@ -51,7 +51,6 @@ defaults:
   values:
     image: ''
     link: ''
-email: eat@thestagdevon.co.uk
 description: An English country inn set in the heart of the Devon countryside, just
   off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in
   Devon.
@@ -62,7 +61,7 @@ url:
 twitter_url: 
 facebook_url: https://www.facebook.com/The-Stag-inn-Rackenford-101944017885070/
 instagram_url: 
-tripadvisor_url: 
+tripadvisor_url: https://www.tripadvisor.co.uk/Restaurant_Review-g15561400-d14175231-Reviews-The_Stag-Rackenford_Tiverton_Devon_England.html
 telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
 opening_times_text: "Wednesday - Saturday  \n12:00 - 15:00  \n18:00 - 23:00\n\nSunday
