@@ -14,4 +14,4 @@ Boxing Day 11:30 - 20:00
 31st December - 12:00 - 15:00 and 18:30 - 00:30
 1st January - 12:00 - 18:00
 2nd - 16th January - Inclusive closed for holiday
-17th - Reopen normal hours
+17th January - Reopen normal hours
