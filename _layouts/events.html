@@ -23,7 +23,7 @@ layout: default
 <section class="events">
 {% for event in site.posts %}
 
-<section class="content event">
+<section class="content event" id="{{ event.title | url_encode }}">
 	<h3 class="date-of-event">{{ event.date-of-event }}</h3>
 
 	<h2 class="title-of-event">{{ event.title }}</h2>
