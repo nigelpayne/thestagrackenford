@@ -5,4 +5,3 @@ date-of-event: Saturday 25th January
 featured-image: image goes here
 ---
 
-A supper to celebrate the life and poetry of the poet Robert Burns.
