@@ -24,7 +24,7 @@ layout: default
 {% for event in site.posts %}
 
 <section class="content event" id="{{ event.title | url_encode }}">
-	<h3 class="date-of-event">{{ event.date-of-event }}</h3>
+	{% if event.date-of-event != "" %}<h3 class="date-of-event">{{ event.date-of-event }}</h3>{% endif %}
 
 	<h2 class="title-of-event">{{ event.title }}</h2>
 
@@ -34,4 +34,4 @@ layout: default
 {% endfor %}
 </section>
 
-<a href="/food/" class="endpagelink food2"><span>View our menus</span></a>
+<a href="/food/" class="endpagelink food"><span>View our menus</span></a>

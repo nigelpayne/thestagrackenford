@@ -9,14 +9,9 @@
 	<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<link rel="icon" href="/assets/img/favicon-32x32.png">
 	<meta name="theme-color" content="#812024">
-	<!-- <meta name="twitter:card" content="summary_large_image">
-	    <meta name="twitter:site" content="@thestagrackenford">
-	    <meta name="twitter:title" content="The Stag Rackenford">
-	    <meta name="twitter:description" content="{{ site.description }}">
-	    <meta name="twitter:image" content="https://www.thestagdevon.co.uk/the-stag-rackenford.jpg"> -->
 	<meta property="og:title" content="{% include titles.html %}">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="https://www.thestagdevon.co.uk/">
+	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 	<meta property="og:image" content="/assets/img/the-stag-rackenford.jpg">
 	<link rel="stylesheet" href="/assets/css/app.css">
@@ -26,13 +21,10 @@
 
 	{% include header.html %}
 
+	{{ content }}
 
-		{{ content }}
+	{% include footer.html %}
 
-	  {% include footer.html %}
-
-
-	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script> -->
 	<script src="/assets/js/headroom.min.js"></script>
 	<script src="/assets/js/main.js"></script>
 	{% if page.url == "/food/" %}<script src="/assets/js/tabs.js"></script>{% endif %}

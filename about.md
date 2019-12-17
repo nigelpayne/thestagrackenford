@@ -4,8 +4,7 @@ permalink: "/about/"
 then-image: "/uploads/the-stag-cellar-march-1955-square.jpg"
 then-text: The old beer cellar.
 now-image: "/uploads/the-stag-wood-paneling.jpg"
-now-text: Taper burn marks in the wood paneling, thought to protect the building from
-  fire, lightning or even spirits.
+now-text: Apotropaic marks made by holding burning tapers against the wood leaving these flame marks which were thought to protect the beer and building against evil spirits!
 now-body: |-
   ## Now
 
