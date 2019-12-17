@@ -2,7 +2,8 @@
 title: Spend some time in Rackenford or nearby
 permalink: "/stay/"
 layout: stay
-description: North Devon is a wonderful place to spend some time no matter what the month or weather is.
+description: North Devon is a wonderful place to spend some time no matter what the
+  month or weather is.
 ---
 
 ## Near us

@@ -1,5 +1,6 @@
 ---
-title: With everything we do, we work to create for you a unique dining and drinking experience
+title: With everything we do, we work to create for you a unique dining and drinking
+  experience
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
@@ -11,7 +12,12 @@ content-text: |2-
   ![The Stag Rackenford can host your event](/uploads/the-stag-gin.jpg)
 you-content:
   header: Steve & Oliver
-  text: "Steve, bought The Stag in summer 2017 when it was closed and in a very sorry state. Together Steve and Oliver with a trusty team, took away the accumulated rot and decay to reveal the stunning interior of this amazing historic inn. Gently we are bringing The Stag back to life fit for the 21st Century. This huge project is still unfinished with more work ahead as we hope to realise our vision for the inn.  \n\nSteve is Owner Chef.  \n\nOliver is Partner and Front of House."
+  text: "Steve, bought The Stag in summer 2017 when it was closed and in a very sorry
+    state. Together Steve and Oliver with a trusty team, took away the accumulated
+    rot and decay to reveal the stunning interior of this amazing historic inn. Gently
+    we are bringing The Stag back to life fit for the 21st Century. This huge project
+    is still unfinished with more work ahead as we hope to realise our vision for
+    the inn.  \n\nSteve is Owner Chef.  \n\nOliver is Partner and Front of House."
   image: "/uploads/steve-and-oliver-the-stag.jpg"
 layout: home
 ---
