@@ -1,11 +1,9 @@
 h1, h2, h3, h4, h5, h6 {
-  font-family: GillSansNova-Medium, sans-serif;
-  font-weight: 500;
-  font-style: normal;
+  @include font-sans;
 }
 
 em {
-  @include font-serif-italic;
+  font-style: italic;
 }
 
 p strong {
