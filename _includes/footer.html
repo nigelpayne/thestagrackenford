@@ -19,10 +19,10 @@
     <div class="column">
       <h5>Follow us</h5>
       <ul class="social-links">
-        <li><a href="{{ site.facebook_url }}"><img src="/assets/img/icon/facebook.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Facebook"> Facebook</a></li>
-        <li><a href="{{ site.twitter_url }}"><img src="/assets/img/icon/twitter.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Twitter"> Twitter</a></li>
-        <li><a href="{{ site.instagram_url }}"><img src="/assets/img/icon/instagram.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Instagram"> Instagram</a></li>
-        <li><a href="{{ site.tripadvisor_url }}"><img src="/assets/img/icon/tripadvisor.svg" width="24" height="24" class="icon" alt="The Stag Rackenford TripAdvisor"> TripAdvisor</a></li>
+        {% if site.facebook_url %}<li><a href="{{ site.facebook_url }}"><img src="/assets/img/icon/facebook.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Facebook"> Facebook</a></li>{% endif %}
+        {% if site.twitter_url %}<li><a href="{{ site.twitter_url }}"><img src="/assets/img/icon/twitter.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Twitter"> Twitter</a></li>{% endif %}
+        {% if site.instagram_url %}<li><a href="{{ site.instagram_url }}"><img src="/assets/img/icon/instagram.svg" width="24" height="24" class="icon" alt="Follow The Stag Rackenford on Instagram"> Instagram</a></li>{% endif %}
+        {% if site.tripadvisor_url %}<li><a href="{{ site.tripadvisor_url }}"><img src="/assets/img/icon/tripadvisor.svg" width="24" height="24" class="icon" alt="The Stag Rackenford TripAdvisor"> TripAdvisor</a></li>{% endif %}
       </ul>
     </div>
   </div>

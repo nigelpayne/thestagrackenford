@@ -54,8 +54,9 @@ defaults:
 description: An English country inn set in the heart of the Devon countryside, just
   off Exmoor National Park, The Stag Rackenford is rumoured to be the oldest pub in
   Devon.
-footer_description_text: Rumoured to be the oldest pub in Devon. TripAdvisor Certificate
-  of Excellence 2019. Dog friendly.
+footer_description_text: "Rumoured to be the oldest pub in Devon. TripAdvisor Certificate
+  of Excellence 2019. Dog friendly.  \n\n[eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk)
+  \ \n\n[01884 881755](tel:01884881755)"
 baseurl: 
 url: http://thestagrackenford.siteleaf.net/
 twitter_url: 
@@ -66,7 +67,8 @@ telephone: '01884 881755'
 email_address: eat@thestagdevon.co.uk
 opening_times_text: "Wednesday - Saturday  \n12:00 - 15:00 and 18:00 - 23:00\n\nSunday
   \ \n12:00 - 16:00  \n\n[Christmas opening hours](http://thestagrackenford.siteleaf.net/events/#Christmas+opening+times)"
-reservations_text: Please call [01884 881755](tel:01884881755) to reserve a table.
+reservations_text: "Please call [01884 881755](tel:01884881755) to reserve a table.
+  \ \n\n [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk)"
 location_text: |-
   Rackenford, Devon, EX16 8DT.
 

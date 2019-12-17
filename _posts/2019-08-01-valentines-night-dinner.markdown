@@ -1,10 +1,10 @@
 ---
-title: Valentines Night Dinner
+title: Valentines Night
 date: 2019-08-01 22:16:00 +01:00
 date-of-event: Friday 14th February
 ---
 
-Dinner followed by a Valentines Night 1970’s & 1980’s disco in Stag Hall. Fancy dress nearly obligatory.
+A romantic Valentines dinner followed by a 1970’s 80’s disco.
 
 Please book or email us on [eat@thestagdevon.co.uk](mailto:eat@thestagdevon.co.uk?subject=Valentines)
 

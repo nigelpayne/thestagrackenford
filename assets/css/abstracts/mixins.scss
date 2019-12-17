@@ -42,6 +42,12 @@ $breakpoints: (
     font-style: normal;
 }
 
+@mixin font-sans-medium {
+    font-family: GillSansNova-Medium, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
 @mixin font-sans-uppercase {
   font-family: GillSansNova-Medium, sans-serif;
   font-weight: 500;

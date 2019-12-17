@@ -2,11 +2,13 @@
 title: Spend some time in Rackenford or nearby
 permalink: "/stay/"
 layout: stay
+description: North Devon is a wonderful place to spend some time no matter what the
+  month or weather is.
 ---
 
-## Example heading
+## Near us
 
-Donec ullamcorper nulla non metus auctor fringilla. Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Etiam porta sem malesuada magna mollis euismod. Donec ullamcorper nulla non metus auctor fringilla.
+North Devon is a wonderful place to spend some time no matter what the month or weather is. The wonderful Exmoor National Park is just a short drive away and there are lots of hidden villages and valleys to explore. Contact us for places to stay.
 
 ![the-stag-moorland.jpg](/uploads/the-stag-moorland.jpg)
 
