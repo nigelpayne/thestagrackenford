@@ -1,5 +1,5 @@
 ---
-title: With everything we do, we work to create for you an unique dining and drinking
+title: With everything we do, we work to create for you a unique dining and drinking
   experience
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
