@@ -13,7 +13,13 @@
 	<meta property="og:type" content="website">
 	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-	<meta property="og:image" content="/assets/img/the-stag-rackenford.jpg">
+	<meta property="og:image" content="http://www.thestagrackenford.co.uk/assets/img/the-stag-rackenford.jpg">
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="{{ page.url | absolute_url }}">
+	<meta property="twitter:title" content="{% include titles.html %}">
+	<meta property="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+	<meta property="twitter:image" content="http://www.thestagrackenford.co.uk/assets/img/the-stag-rackenford.jpg">
+
 	<link rel="stylesheet" href="/assets/css/app.css">
 </head>
 
