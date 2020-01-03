@@ -8,11 +8,11 @@ position: 0
 
 * ...
 
-* Ham hock terrine, home made piccalilli *£6.5*
+* Ham hock terrine, home made piccalilli *£6.6*
 
-* Mushroom & taleggio tart *£6.5*
+* Mushroom & taleggio tart *£6.6*
 
-* Mackerel pate, homemade beer beard *£6.5*
+* Mackerel pate, homemade beer bread *£6.5*
 
 * ...
 
