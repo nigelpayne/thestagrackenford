@@ -7,4 +7,4 @@ description: The colder months are here, the wood fires are burning and the mull
 layout: events
 ---
 
-The colder months are here, the wood fires are burning and the mulled wine is steaming!  Closed for a holiday from 02.01.20.  Reopen Friday 17.01.20
+The colder months are here, the wood fires are burning and the mulled wine is steaming!
