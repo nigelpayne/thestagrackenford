@@ -17,7 +17,7 @@ you-content:
     rot and decay to reveal the stunning interior of this amazing historic inn. Gently
     we are bringing The Stag back to life fit for the 21st Century. This huge project
     is still unfinished with more work ahead as we hope to realise our vision for
-    the inn.  \n\nSteve is Owner Chef.  \n\nOliver is Partner and Front of House."
+    the inn.  \n\nSteve is Owner & Kitchen.  \n\nOliver is Partner and Front of House."
   image: "/uploads/steve-and-oliver-the-stag.jpg"
 layout: home
 ---
