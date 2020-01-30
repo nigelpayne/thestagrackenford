@@ -1,6 +1,7 @@
 ---
 title: Closed for Holiday reopen 17.01.20
 date: 2019-12-02 20:28:00 +00:00
+published: false
 date-of-event: December - January
 ---
 
