@@ -1,6 +1,7 @@
 ---
 title: Burns Night
 date: 2019-09-02 13:03:00 +01:00
+published: false
 date-of-event: Saturday 25th January 2020
 featured-image: "/uploads/Burns%20night%20poster%20for%20web.jpg"
 ---
