@@ -6,4 +6,4 @@ description:
 layout: events
 ---
 
-The colder months are here, the wood fires are burning and the mulled wine is steaming!
+The colder months are here, the wood fires are burning!
