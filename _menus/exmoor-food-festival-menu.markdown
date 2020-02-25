@@ -4,8 +4,8 @@ date: 2020-02-05 00:41:00 +00:00
 position: 2
 ---
 
-## Lunch menu
-### 2 courses £15 / 3 courses £17.50
+## Sample Lunch menu
+### 2 courses 15 / 3 courses 17.50
 
 *Available Thursday to Saturday from 12th – 29th Feb, excluding Valentine’s Day*
 
