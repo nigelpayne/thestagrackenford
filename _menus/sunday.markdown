@@ -4,9 +4,9 @@ date: 2019-10-30 09:55:00 +00:00
 position: 1
 ---
 
-### 2 courses £18
+### 2 courses 18
 
-*Children £9*
+*Children 9*
 
 * ...
 
