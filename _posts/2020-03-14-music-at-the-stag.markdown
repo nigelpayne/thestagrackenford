@@ -1,6 +1,7 @@
 ---
 title: Music at The Stag
 date: 2020-03-14 19:30:00 +00:00
+published: false
 date-of-event: Saturday 14th March 2020
 ---
 
