@@ -7,4 +7,4 @@ date-of-event: Saturday 14th March 2020
 
 ![Secret Notes music night](/uploads/Secret%20Notes%20music%20night1.jpg)
 
-The newly formed group,'The Secret Notes' will be playing at The Stag from 19.30.  Tickets which include a free pint or the equivalent £4.
+The newly formed group,'Secret Notes' will be playing at The Stag from 19.30.  Tickets which include a free pint or the equivalent £4.
