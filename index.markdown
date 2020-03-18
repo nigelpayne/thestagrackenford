@@ -1,9 +1,7 @@
 ---
-title: The health & wellbeing of our customers and staff is our top priority.  Given
-  what we know today about Covid-19 we feel it is right to temporarily close until
-  further notice.  We hope to come back to you with an offering in the near future.  Thank
-  you all for your support, stay safe, stay well.  Steve & Oliver. ps if you are short
-  of any grocery please contact us!
+title: |-
+  The health & wellbeing of our customers and staff is our top priority.  Given what we know today about Covid-19 we feel it is right to temporarily close until further notice.  We hope to come back to you with an offering in the near future.  Thank you all for your support, stay safe, stay well.  Steve & Oliver
+  PS: if you are short of any grocery please contact us!
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
