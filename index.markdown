@@ -1,6 +1,7 @@
 ---
-title: With everything we do, we work to create for you a unique dining and drinking
-  experience
+title: The health & wellbeing of our customers and staff is our top priority.  Given
+  what we know today about Covid-19 we feel it is right to temporarily close until
+  further notice.  We hope to come back to you with an offering in the near future
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
