@@ -14,6 +14,8 @@ date: 2020-04-09 13:16:00 +01:00
 * Portion of Mushy Peas 0.50p
 * Portion of Tartare sauce 0.20p
 
+* Prescott Hill Climb £2.40 per pint (please bring your own jug/container - milk cartons work well!)
+
 <p>&nbsp;</p>
   
 We have a small commercial fryer & limited fish available (it’s fresh not frozen)
