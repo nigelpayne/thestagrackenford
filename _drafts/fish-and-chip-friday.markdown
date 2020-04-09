@@ -4,6 +4,7 @@ date: 2020-04-09 13:16:00 +01:00
 ---
 
 ![the-stag-fish-and-chips-batter.jpg](/uploads/the-stag-fish-and-chips-batter.jpg)
+
 **Pre-order** (time slots between 5 to 8 p.m.), **collect your order & enjoy at home!**
 
 * Beer Battered Haddock (Medium 6oz/170g) & triple cooked chips £7.50
@@ -12,6 +13,7 @@ date: 2020-04-09 13:16:00 +01:00
 
 * Portion of Mushy Peas 0.50p
 * Portion of Tartare sauce 0.20p
+
 
 
 We have a small commercial fryer & limited fish available (it’s fresh not frozen) so **please telephone us 01884 881755 to pre-order your time slot**. 
