@@ -14,9 +14,9 @@ date: 2020-04-09 13:16:00 +01:00
 * Portion of Mushy Peas 0.50p
 * Portion of Tartare sauce 0.20p
 
-
-
-We have a small commercial fryer & limited fish available (it’s fresh not frozen) so **please telephone us 01884 881755 to pre-order your time slot**. 
+&nbsp  
+We have a small commercial fryer & limited fish available (it’s fresh not frozen)
+**please telephone us 01884 881755 to pre-order your time slot**. 
 
 Your order will be freshly cooked to collect from the kitchen door at the back of the pub.
 
