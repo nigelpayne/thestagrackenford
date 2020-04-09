@@ -6,4 +6,4 @@ description:
 layout: events
 ---
 
-The colder months are here, the wood fires are burning!
+The better weather is here, the primroses are blooming and our seeds are growing, but we are all self-isolating and staying safe!
