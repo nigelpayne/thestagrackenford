@@ -12,8 +12,9 @@ date: 2020-04-09 13:16:00 +01:00
 * Breaded Plaice Fillets (Small 2 fillets) & triple cooked chips £5.00
 
 * Portion of Mushy Peas 0.50p
-* Portion of Tartare sauce 0.20p  
+* Portion of Tartare sauce 0.20p
 
+<p>&nbsp;</p>
   
 We have a small commercial fryer & limited fish available (it’s fresh not frozen)
 **please telephone us 01884 881755 to pre-order your time slot**. 
