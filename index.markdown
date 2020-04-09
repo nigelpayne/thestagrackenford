@@ -1,5 +1,7 @@
 ---
 title: |-
+  <p>&nbsp
+  <p>&nbsp
   **Fish & Chip Friday - see events**
   <p>&nbsp
   <p>&nbsp The health & wellbeing of our customers and staff is our top priority.  Given what we know today about Covid-19 we feel it is right to temporarily close until further notice.  We hope to come back to you with an offering in the near future.  Thank you all for your support, stay safe, stay well.  Steve & Oliver
