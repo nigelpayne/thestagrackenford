@@ -3,6 +3,7 @@ title: Fish & Chip Friday
 date: 2020-04-09 13:16:00 +01:00
 ---
 
+![the-stag-fish-and-chips-batter.jpg](/uploads/the-stag-fish-and-chips-batter.jpg)
 **Pre-order** (time slots between 5 to 8 p.m.), **collect your order & enjoy at home!**
 
 * Beer Battered Haddock (Medium 6oz/170g) & triple cooked chips £7.50
