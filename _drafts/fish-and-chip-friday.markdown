@@ -3,7 +3,7 @@ title: Fish & Chip Friday
 date: 2020-04-09 13:16:00 +01:00
 ---
 
-**Pre-order time slots between 5 to 8 p.m. Collect your take away & enjoy at home!**
+**Pre-order** (time slots between 5 to 8 p.m.), **collect your order & enjoy at home!**
 
 * Beer Battered Haddock (Medium 6oz/170g) & triple cooked chips £7.50
 * Breaded Plaice Fillets (Regular 3 fillets) & triple cooked chips £7.50
