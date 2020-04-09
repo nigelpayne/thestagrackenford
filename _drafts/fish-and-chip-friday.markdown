@@ -5,7 +5,7 @@ date: 2020-04-09 13:16:00 +01:00
 
 ![the-stag-fish-and-chips-batter.jpg](/uploads/the-stag-fish-and-chips-batter.jpg)
 
-**Pre-order**, **collect & enjoy at home!**
+## **Pre-order**, **collect & enjoy at home!**
 
 * Beer Battered Haddock (Medium 6oz/170g) & triple cooked chips £7.50
 * Breaded Plaice Fillets (Regular 3 fillets) & triple cooked chips £7.50
