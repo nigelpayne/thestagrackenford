@@ -17,7 +17,7 @@ date: 2020-04-09 13:16:00 +01:00
 <p>&nbsp;</p>
   
 We have a small commercial fryer & limited fish available (it’s fresh not frozen)
-**please telephone us 01884 881755 to pre-order your time slot ***(15 min time slots from 5.00p.m. to  8.00 p.m.)*** 
+**please telephone us 01884 881755 to pre-order your time slot** (15 min time slots from 5.00p.m. to  8.00 p.m.) 
 
 Your order will be freshly cooked to collect from the kitchen door at the back of the pub.
 
