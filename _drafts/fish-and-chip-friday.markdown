@@ -1,5 +1,5 @@
 ---
-title: Fish & Chip Friday
+title: Fish & Chip Friday, 5 p.m. to 8 p.m.
 date: 2020-04-09 13:16:00 +01:00
 ---
 
