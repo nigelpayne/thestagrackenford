@@ -1,7 +1,7 @@
 ---
-title: "  The health & wellbeing of our customers is our top priority.  Please ensure
+title: The health & wellbeing of our customers is our top priority.  Please ensure
   you maintain social distancing when coming to collect food from the pub. Thank you
-  all for your support, stay safe, stay well.  Steve & Oliver"
+  all for your support, stay safe, stay well.  Steve & Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
