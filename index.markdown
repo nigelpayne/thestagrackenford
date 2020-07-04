@@ -1,6 +1,7 @@
 ---
-title: The health & wellbeing of our customers is our top priority.  We are working
-  to implement Covid 19 secure environment and will be re-opening soon.  Steve & Oliver
+title: "The health & wellbeing of our customers is our top priority.  We are working
+  to implement Covid 19 secure environment and will be re-opening soon.  We are continuing
+  our takeaway service, please email for menu. \nSteve & Oliver"
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
