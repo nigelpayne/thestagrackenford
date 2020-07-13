@@ -39,8 +39,6 @@ position: 0
 
 * Cheese plate
 
-  * with glass of port *10*
-
 * ...
 
 * Tea/Coffee with biscotti
