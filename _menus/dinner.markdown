@@ -41,4 +41,4 @@ position: 0
 
 * ...
 
-* Tea/Coffee with biscotti
+* Tea/Coffee
