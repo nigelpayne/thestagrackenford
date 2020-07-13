@@ -27,13 +27,13 @@ position: 0
 
 * ...
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream with hot fudge sauce
+* Homemade Vanilla Ice Cream, Madagascan vanilla beans, eggs and cream with hot fudge sauce
 
 * Spiced Rum Sticky Toffee Pudding, toffee sauce, cream
 
 * Chocolate, Prune & Armagnac torte, Prune & Armagnac sauce, cream
 
-* Lemon posset, home made shortbread
+* Lemon Posset, home made shortbread
 
 * ...
 
