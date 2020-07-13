@@ -6,7 +6,7 @@ position: 1
 
 ### 2 courses *£20*
 
-*Children (under 5) eat free, (aged 6 to 10) *£10*
+* Children (under 5) eat free, (aged 6 to 10) *£10*
 
 * ...
 
