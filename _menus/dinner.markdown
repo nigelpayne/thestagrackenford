@@ -4,7 +4,10 @@ date: 2019-10-30 09:51:00 +00:00
 position: 0
 ---
 
-## Dinner Menu - July 2020 - 3 courses *28*, 4 courses *32*
+## Dinner Menu - July 2020
+
+## 3 courses *£28*
+## 4 courses *£32*
 
 * ...
 
@@ -38,4 +41,6 @@ position: 0
 
   * with glass of port *10*
 
-* Tea/Coffee with biscotti *3.5*
+* ...
+
+* Tea/Coffee with biscotti
