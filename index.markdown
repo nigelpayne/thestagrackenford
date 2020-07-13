@@ -1,6 +1,6 @@
 ---
-title: We are re-opening Saturday 18th July and will be open thereafter for Friday
-  takeaway, Saturday dinner and Sunday lunch, pre-booked meals only.
+title: We are re-opening Saturday 18th July and will be open thereafter for pre-booked
+  meal on Friday night takeaway, Saturday dinner and Sunday lunch.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
