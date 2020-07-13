@@ -10,39 +10,31 @@ position: 0
 
 * Ham hock terrine, home made piccalilli 
 
-* Mushroom & taleggio tart
+* Mushroom & taleggio tart, rocket garnish
 
 * Whipped goats cheese, beetroot salad, home made sourdough
 
 * ...
 
-* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips *14*
+* Slow roasted herb stuffed Oxford & Sandy Black pork belly, rosti potato, seasonal vegetables
 
-* Chickpea & coriander burger, cheese, gherkin, hand cut chips *14*
+* Lamb two ways, slow roast roulade of breast topped with a lamb cutlet, redcurrant jus, rosti potato, seasonal vegetables
 
-* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg *16.5*
-
-* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg *16.5*
-
-* Whole plaice, jersey royal potatoes, leeks, carrots and veg *16.5*
-
-* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg *18*
+* Chicken breast, smoked pancetta & black pudding on a bed of creamy leeks, new potatoes, seasonal vegetables
 
 * ...
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream *4*
+* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream with hot fudge sauce
 
-  * with hot fudge sauce *5.5*
+* Spiced Rum Sticky Toffee Pudding, toffee sauce, cream
 
-* Eton mess, berries, meringue and cream *6.5*
+* Chocolate, Prune & Armagnac torte, Prune & Armagnac sauce, cream
 
-* Chocolate brownie, chocolate, coffee, hazelnut and cream *6.5*
+* Lemon posset, home made shortbread
 
-* Spiced rum sticky toffee pudding with toffee sauce and cream *6.5*
+* ...
 
-  * with shot of Morvenna rum *9.5*
-
-* Cheese plate *7*
+* Cheese plate
 
   * with glass of port *10*
 
