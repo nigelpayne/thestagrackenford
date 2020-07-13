@@ -4,15 +4,15 @@ date: 2019-10-30 09:51:00 +00:00
 position: 0
 ---
 
-## Sample Dinner Menu
+## Dinner Menu - July 2020 - 3 courses *28*, 4 courses *32*
 
 * ...
 
-* Ham hock terrine, home made piccalilli *6.6*
+* Ham hock terrine, home made piccalilli 
 
-* Mushroom & taleggio tart *6.6*
+* Mushroom & taleggio tart
 
-* Mackerel pate, homemade beer bread *6.5*
+* Whipped goats cheese, beetroot salad, home made sourdough
 
 * ...
 
