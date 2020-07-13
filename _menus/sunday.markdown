@@ -10,9 +10,9 @@ position: 1
 
 * ...
 
-* Roast Duo of lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast Lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
-* Roast Shoulder of Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
 * ...
 
