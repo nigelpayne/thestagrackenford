@@ -4,15 +4,15 @@ date: 2019-10-30 09:55:00 +00:00
 position: 1
 ---
 
-### 2 courses 18
+### 2 courses *20*
 
-*Children 9*
+*Children (under 5) eat free, 6 to 10 *10*
 
 * ...
 
-* Roast shoulder of Rackenford lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast Duo of lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
-* Roast top rump of beef, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast shoulder of Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
 * ...
 
@@ -20,7 +20,7 @@ position: 1
 
   * add shot of Psychopomp's coffee distillation to make it an Affogato *£2.5 supplement*
 
-* Eton mess, mixed berries, meringue and cream
+* Lemon posset, home made shortbread
 
 * Glayva chocolate brownie and cream, served warm or cold
 
