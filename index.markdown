@@ -1,7 +1,6 @@
 ---
-title: "The health & wellbeing of our customers is our top priority.  We are working
-  to implement Covid 19 secure environment and will be re-opening soon.  We are continuing
-  our takeaway service, please email for menu. \nSteve & Oliver"
+title: We are re-opening Saturday 18th July and will be open thereafter for pre-booked
+  meals; Friday night takeaway, Saturday dinner and Sunday lunch.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-

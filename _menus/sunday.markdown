@@ -4,27 +4,27 @@ date: 2019-10-30 09:55:00 +00:00
 position: 1
 ---
 
-### 2 courses 18
+### 2 courses *20*
 
-*Children 9*
-
-* ...
-
-* Roast shoulder of Rackenford lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
-
-* Roast top rump of beef, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+*Children (under 5) eat free, 6 to 10 *10*
 
 * ...
 
-* Homemade vanilla ice cream, with optional hot fudge sauce or raspberry coulis
+* Roast Duo of lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+
+* Roast Shoulder of Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+
+* ...
+
+* Homemade Vanilla ice cream, with optional hot fudge sauce
 
   * add shot of Psychopomp's coffee distillation to make it an Affogato *£2.5 supplement*
 
-* Eton mess, mixed berries, meringue and cream
+* Lemon Posset, home made shortbread
 
-* Glayva chocolate brownie and cream, served warm or cold
+* Glayva Chocolate Brownie and cream, served warm or cold
 
-* Spiced rum sticky toffee pudding with toffee sauce and cream
+* Spiced Rum Sticky Toffee pudding with toffee sauce and cream
 
   * add shot of Morvenna rum *£2.5 supplement*
 

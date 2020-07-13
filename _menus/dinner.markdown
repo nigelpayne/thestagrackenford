@@ -4,46 +4,43 @@ date: 2019-10-30 09:51:00 +00:00
 position: 0
 ---
 
-## Sample Dinner Menu
+## Dinner Menu - July 2020
+
+## 3 courses *£28*
+## 4 courses *£32*
 
 * ...
 
-* Ham hock terrine, home made piccalilli *6.6*
+* Ham hock terrine, piccalilli 
 
-* Mushroom & taleggio tart *6.6*
+* Mushroom & taleggio tart, rocket garnish
 
-* Mackerel pate, homemade beer bread *6.5*
-
-* ...
-
-* Exmoor beef burger, bacon, cheese, gherkin, hand cut chips *14*
-
-* Chickpea & coriander burger, cheese, gherkin, hand cut chips *14*
-
-* Chicken supreme, jersey royal potatoes, creamy leeks, carrots and veg *16.5*
-
-* Baked pesto salmon fillet, jr potatoes, creamy leeks, carrots and veg *16.5*
-
-* Whole plaice, jersey royal potatoes, leeks, carrots and veg *16.5*
-
-* Rackenford lamb loin chop, jersey royal potatoes, creamy leeks, carrots and veg *18*
+* Whipped goats cheese, beetroot salad, home made sourdough
 
 * ...
 
-* Homemade vanilla ice cream, Madagascan vanilla beans, eggs and cream *4*
+* Slow roasted herb stuffed Oxford & Sandy Black pork belly, rosti potato, seasonal vegetables
 
-  * with hot fudge sauce *5.5*
+* Lamb two ways, slow roast roulade of breast topped with a lamb cutlet, redcurrant jus, rosti potato, seasonal vegetables
 
-* Eton mess, berries, meringue and cream *6.5*
+* Chicken breast, smoked pancetta & black pudding on a bed of creamy leeks, new potatoes, seasonal vegetables
 
-* Chocolate brownie, chocolate, coffee, hazelnut and cream *6.5*
+* ...
 
-* Spiced rum sticky toffee pudding with toffee sauce and cream *6.5*
+* Homemade Vanilla Ice Cream, Madagascan vanilla beans, eggs and cream with hot fudge sauce
 
-  * with shot of Morvenna rum *9.5*
+* Spiced Rum Sticky Toffee Pudding, toffee sauce, cream
 
-* Cheese plate *7*
+* Chocolate, Prune & Armagnac torte, Prune & Armagnac sauce, cream
+
+* Lemon Posset, home made shortbread
+
+* ...
+
+* Cheese plate
 
   * with glass of port *10*
 
-* Tea/Coffee with biscotti *3.5*
+* ...
+
+* Tea/Coffee with biscotti
