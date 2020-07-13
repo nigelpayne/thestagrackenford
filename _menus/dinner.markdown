@@ -11,7 +11,7 @@ position: 0
 
 * ...
 
-* Ham hock terrine, home made piccalilli 
+* Ham hock terrine, piccalilli 
 
 * Mushroom & taleggio tart, rocket garnish
 
