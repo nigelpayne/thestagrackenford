@@ -1,7 +1,8 @@
 ---
-title: We are re-opening Saturday 18th July with revised opening times.  We will be
-  open for pre-booked meals only; Friday night takeaway, Saturday dinner and Sunday
-  lunch.
+title: We are finally taking a holiday and so are closing from Monday 31st August.  We
+  then will be finishing the current renovations and re-opening in October.  Thank
+  you for all your support during lockdown and since as without you, our customers
+  and friends, we wouldn't be here.  Steve and Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
