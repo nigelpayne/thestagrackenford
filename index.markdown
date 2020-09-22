@@ -1,8 +1,8 @@
 ---
-title: We are finally taking a holiday and so are closing from Monday 31st August.  We
-  then will be finishing the current renovations and re-opening in October.  Thank
-  you for all your support during lockdown and since as without you, our customers
-  and friends, we wouldn't be here.  Steve and Oliver
+title: We are still working hard on the toilet refurbishments!  As soon as we have
+  a firm date for re-opening then we will let you know.  Thank you for all your support
+  during lockdown and since as without you, our customers and friends, we wouldn't
+  be here.  Steve and Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
