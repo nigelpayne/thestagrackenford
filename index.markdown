@@ -1,8 +1,7 @@
 ---
-title: We are still working hard on the toilet refurbishments!  As soon as we have
-  a firm date for re-opening we will let you know.  Thank you for all your support
-  during lockdown and since as without you, our customers and friends, we wouldn't
-  be here.  Steve and Oliver
+title: We are pleased to say that there will be at least one toilet in operation by
+  the end of the week and so we are open for lunch this Sunday 25th.  We will only
+  be open on Sunday's until remaing works finish in 2 or 3 weeks time.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
