@@ -1,7 +1,6 @@
 ---
-title: We are pleased to say that there will be at least one toilet in operation by
-  the end of the week and so we are open for lunch this Sunday 25th.  We will only
-  be open on Sunday's until remaing works finish in 2 or 3 weeks time.
+title: At the moment we are only open for Sunday Lunch, once the toilet refurb is
+  finished we will increase our opening days.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
