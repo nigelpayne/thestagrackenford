@@ -1,6 +1,6 @@
 ---
-title: The good news is twofold, the toilet refurb is complete and more importantly,
-  we re-open this weekend on Sunday 6th Dec!
+title: The good news is twofold, the toilet refurb is virtually complete and more
+  importantly, we re-open this weekend on Sunday 6th Dec!
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
