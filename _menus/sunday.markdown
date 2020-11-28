@@ -10,19 +10,21 @@ position: 1
 
 * ...
 
-* Roast Lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast Leg of Lamb, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
-* Roast Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
+* Roast Shoulder of Pork, roasties, yorkshire, cauliflower cheese, broccoli, carrots
 
 * ...
 
-* Homemade Vanilla ice cream, with optional hot fudge sauce
+* Homemade Madagascan Vanilla ice cream, with hot fudge sauce
 
   * add shot of Psychopomp's coffee distillation to make it an Affogato *£2.5 supplement*
 
-* Lemon Posset, home made shortbread
+* Autumn Pear and Poire William Torte, served with cream
 
-* Glayva Chocolate Brownie and cream, served warm or cold
+  * add a shot of Poire William *£2.80 supplement*
+
+* Dark Chocolate Mousse and cream*
 
 * Spiced Rum Sticky Toffee pudding with toffee sauce and cream
 

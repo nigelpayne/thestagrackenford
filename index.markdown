@@ -1,7 +1,6 @@
 ---
-title: We are pleased to say that there will be at least one toilet in operation by
-  the end of the week and so we are open for lunch this Sunday 25th.  We will only
-  be open on Sunday's until remaing works finish in 2 or 3 weeks time.
+title: The good news is twofold, the toilet refurb is complete and more importantly,
+  we re-open this weekend on Sunday 6th Dec!
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
