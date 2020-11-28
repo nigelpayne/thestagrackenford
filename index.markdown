@@ -1,6 +1,7 @@
 ---
-title: At the moment we are only open for Sunday Lunch, once the toilet refurb is
-  finished we will increase our opening days.
+title: The good news is twofold, the toilet refurb is complete other than new doors
+  to fit when lime plaster is dry, and more importantly, we re-open this week on Saturday
+  5th Dec.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
