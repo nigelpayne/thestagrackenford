@@ -1,7 +1,6 @@
 ---
-title: The good news is twofold, the toilet refurb is complete other than new doors
-  to fit when lime plaster is dry, and more importantly, we re-open this week on Saturday
-  5th Dec.
+title: The good news is twofold, the toilet refurb is complete and more importantly,
+  we re-open this week on Saturday 5th Dec!
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
