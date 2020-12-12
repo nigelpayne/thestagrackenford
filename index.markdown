@@ -1,5 +1,6 @@
 ---
-title: We are open for Saturday dinner and Sunday Lunch.
+title: We are open for Saturday dinner and Sunday Lunch.  Our opening dates are on
+  our news page.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
