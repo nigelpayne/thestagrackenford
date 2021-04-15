@@ -1,6 +1,5 @@
 ---
-title: We are open for Saturday dinner and Sunday Lunch.  Our opening dates are on
-  our news page.
+title: We are only doing Friday takeaway until May.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
