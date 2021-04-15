@@ -1,6 +1,6 @@
 ---
-title: We are open for Saturday dinner and Sunday Lunch.  Our opening dates are on
-  our news page.
+title: We are only doing Friday takeaway until May.  Re-opening, regulations allowing
+  w/c 19.05.21!
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
