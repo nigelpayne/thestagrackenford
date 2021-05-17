@@ -1,6 +1,5 @@
 ---
-title: We are only doing Friday takeaway until May.  Re-opening, regulations allowing
-  w/c 19.05.21!
+title: 'We are looking forward to seeing you.  Re-opening soon! Please email: eat@thestagdevon.co.uk'
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
