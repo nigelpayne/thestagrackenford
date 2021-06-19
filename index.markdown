@@ -1,5 +1,6 @@
 ---
-title: 'We are looking forward to seeing you.  Re-opening soon! Please email: eat@thestagdevon.co.uk'
+title: 'We are finally hoping to re-open after building repairs on Friday 16th July
+  Please email: eat@thestagdevon.co.uk'
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
