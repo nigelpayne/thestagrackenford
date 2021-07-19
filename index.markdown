@@ -1,6 +1,7 @@
 ---
-title: 'We are finally hoping to re-open after building repairs on Friday 16th July
-  Please email: eat@thestagdevon.co.uk'
+title: 'We are finally open!  Due to staff shortages, our opening hours are limited
+  to:  Thursday Takaway/Eat Takeaway in, Saturday Dinner and Sunday Lunch. For reservations,
+  please email: eat@thestagdevon.co.uk'
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
