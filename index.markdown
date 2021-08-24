@@ -1,6 +1,6 @@
 ---
 title: Sunday 29th August is our last Sunday lunch for a while as we are taking a
-  holiday and then continuing with the building renovation
+  holiday in Sept and then continuing with the building renovation.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
