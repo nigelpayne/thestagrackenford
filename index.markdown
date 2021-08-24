@@ -1,7 +1,6 @@
 ---
-title: 'We are finally open!  Due to staff shortages, our opening hours are limited
-  to:  Thursday Takaway/Eat Takeaway in, Saturday Dinner and Sunday Lunch. For reservations,
-  please email: eat@thestagdevon.co.uk'
+title: Sunday 29th August is our last Sunday lunch for a while as we are taking a
+  holiday in Sept and then continuing with the building renovation.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
