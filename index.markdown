@@ -1,6 +1,5 @@
 ---
-title: Sunday 29th August is our last Sunday lunch for a while as we are taking a
-  holiday in Sept and then continuing with the building renovation.
+title: Re-Opening Sunday 5th December.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
