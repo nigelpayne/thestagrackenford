@@ -1,5 +1,6 @@
 ---
-title: Re-Opening Sunday 5th December.
+title: Happy New Year '22.  We are closed for the next few weeks continuing improvement
+  works. Thank you.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
