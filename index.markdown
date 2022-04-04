@@ -1,6 +1,6 @@
 ---
-title: 'We are very pleased to welcome back our customers. For the moment, just on
-  Sunday''s whilst our renovations continue during the week.  Reservations:  eat@thestagdevon.co.uk'
+title: 'We are very pleased to welcome back our customers. For the moment, we are
+  open just on Sunday''s whilst our renovations continue during the week.  Reservations:  eat@thestagdevon.co.uk'
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
