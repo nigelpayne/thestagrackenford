@@ -1,6 +1,6 @@
 ---
-title: Happy New Year '22.  Sorry but we are closed for the next few weeks whilst
-  we continue our improvement works to The Stag. Thank you for your understanding.
+title: We have reopened just on Sunday's whilst our renovations continue during the
+  week.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
