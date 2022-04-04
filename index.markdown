@@ -1,6 +1,6 @@
 ---
-title: We are pleased to welcome back our customers, for the moment, just on Sunday's
-  whilst our renovations continue during the week.
+title: We are very pleased to welcome back our customers, for the moment, just on
+  Sunday's whilst our renovations continue during the week.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
