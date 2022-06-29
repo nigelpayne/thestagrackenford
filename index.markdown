@@ -1,6 +1,5 @@
 ---
-title: 'We are closed Sunday 26th July Reopen thereafter just on Sunday''s whilst
-  our renovations continue during the week.  Reservations:  eat@thestagdevon.co.uk'
+title: 'We are open every Sunday whilst our renovations continue during the week.  Reservations:  eat@thestagdevon.co.uk'
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
