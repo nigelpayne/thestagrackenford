@@ -1,5 +1,7 @@
 ---
-title: 'We are open every Sunday whilst our renovations continue during the week.  Reservations:  eat@thestagdevon.co.uk'
+title: We are closed for holidays and then more renovations.  Reopening in the autumn
+  depending on progress!  Thanks to all our wonderful customers for their support
+  duing this summer.  Steve and Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
