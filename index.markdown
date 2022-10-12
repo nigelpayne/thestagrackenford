@@ -1,7 +1,6 @@
 ---
-title: |-
-  We are re-opening on Friday 21st October. Open Friday's  from 6 p.m. to 9 p.m.
-  and for Sunday Lunch 12 noon to 4.00 p.m. Steve and Oliver
+title: We are re-opening on Friday 21st October. for Sunday Lunch 12 noon to 4.00
+  p.m. Steve and Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
