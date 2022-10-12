@@ -6,4 +6,4 @@ description:
 layout: events
 ---
 
-Easter 2022 - We look forward to re-opening our doors in plenty of time for Easter.
+We will be re-opening on Sunday 23rd October 2022 for lunch 12-4.
