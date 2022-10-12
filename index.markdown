@@ -1,7 +1,6 @@
 ---
-title: We are closed for holidays and then will continue with more renovations.  Reopening
-  in the autumn depending on progress!  Thanks to all our wonderful customers for
-  their support duing this summer.  Steve and Oliver
+title: Re-opening from 23rd October for Sunday Lunch 12 noon to 4.00 p.m. Steve and
+  Oliver
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
