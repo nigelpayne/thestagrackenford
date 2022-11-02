@@ -6,4 +6,4 @@ description:
 layout: events
 ---
 
-We will be re-opening on Sunday 23rd October 2022 for lunch 12-4.
+We are open for drinks and Sunday lunch 12noon to 4.00 p.m.
