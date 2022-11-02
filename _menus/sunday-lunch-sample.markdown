@@ -3,7 +3,7 @@ title: Sunday Lunch - Sample
 date: 2022-10-15 11:19:00 +01:00
 ---
 
-## Sunday Lunch Sample Menu
+## Sunday Lunch **Sample Menu**
 ### 2 courses £27
 #### Age 5 to `12 years £12
 ##### Under 5 years no charge
@@ -14,7 +14,7 @@ date: 2022-10-15 11:19:00 +01:00
 
 * Roast Pork Shoulder, crackling, apple sauce, roast potatoes, swede and carrot mash, cauliflower cheese, mustard seed carrots, savoy cabbage
 
-* Roots & Chestnut Wellington, kale pesto, roast potatoes, cauliflower cheese, carrots, swede & carrot mash, savoy cabbage
+* Nut Roast with vegan gravy, roast potatoes, cauliflower cheese, carrots, swede & carrot mash, savoy cabbage
 
 * ...
 
@@ -24,7 +24,7 @@ date: 2022-10-15 11:19:00 +01:00
 
 * Apple and Blackberry Crumble with homemade vanilla custard
 
-* Raspberry Roulade
+* Lemon Curd Roulade
 
 * Morvenna spiced rum Sticky Toffee Pudding, hot fudge sauce  
 *Add a shot of rum – £2.50 supplement*  
