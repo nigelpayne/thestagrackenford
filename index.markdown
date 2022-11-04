@@ -1,5 +1,7 @@
 ---
-title: Open for Drinks & Sunday Lunch from 12 noon to 4.00 p.m.
+title: |-
+  Open Sunday's from 12 noon to 5.00 p.m.
+  Bar (12 noon to 5 p.m.) & Kitchen (12 noon to 3.30 p.m.)
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
