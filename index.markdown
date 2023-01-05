@@ -1,7 +1,6 @@
 ---
-title: |-
-  Open Sunday's from 12 noon to 5.00 p.m.
-  Bar (12 noon to 5 p.m.) & Kitchen (12 noon to 3.30 p.m.)
+title: We are closed from 2nd to 27th January 2023 for Refurbishment Works. We will
+  be open Sunday's from 5th February 2023.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
