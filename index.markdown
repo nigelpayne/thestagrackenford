@@ -1,6 +1,6 @@
 ---
-title: We are closed from 2nd to 27th January 2023 for Refurbishment Works. We will
-  be open Sunday's from 5th February 2023.
+title: Sorry we are closed from 20th February  until 9th April '23 for Refurbishment
+  Works. We will be open on Easter Sunday (bookings by email please).
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
