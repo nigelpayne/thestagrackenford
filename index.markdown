@@ -1,6 +1,6 @@
 ---
-title: Sorry we are closed from 20th February  until 9th April '23 for Refurbishment
-  Works. We will be open on Easter Sunday (bookings by email please).
+title: Sorry we are fully booked on Easter Sunday & are closed on Sunday 16 April
+  for a Private Function.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
