@@ -1,6 +1,6 @@
 ---
-title: Sorry we are fully booked on Easter Sunday & are closed on Sunday 16 April
-  for a Private Function.
+title: Open Fri 5th April Chilli & Beer Night & Sunday 7th May for Roast Lunch 12.30
+  to 3.30 p.m.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
