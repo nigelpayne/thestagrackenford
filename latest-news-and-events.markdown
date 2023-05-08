@@ -6,4 +6,4 @@ description:
 layout: events
 ---
 
-We are open for drinks and Sunday lunch 12noon to 4.00 p.m.
+We are open on the first and second Sunday's of the month Bar 12 noon to 5.00 p.m. kitchen 12.30 to 3.00 p.m.
