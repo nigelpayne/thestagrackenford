@@ -1,5 +1,9 @@
 ---
-title: We are open on the first & second Sunday of each month 12.30 to 3.00 p.m.
+title: |-
+  Closed Sunday 11th June '23.
+  BBQ Special Sunday 2nd July '23
+  Special Friday 7th July '23
+  Traditional Sunday Roast 9th July '23
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
