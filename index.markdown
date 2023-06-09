@@ -1,9 +1,6 @@
 ---
-title: |-
-  Closed Sunday 11th June '23.
-  BBQ Special Sunday 2nd July '23
-  Special Friday 7th July '23
-  Traditional Sunday Roast 9th July '23
+title: "Closed Sunday 11th June '23;   \nBBQ Special Sunday 2nd July '23;  \nSpecial
+  Friday 7th July '23;  \nTraditional Sunday Roast 9th July '23."
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
