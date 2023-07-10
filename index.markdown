@@ -1,7 +1,6 @@
 ---
-title: |-
-  Traditional Sunday Roast 2nd July '23 and
-  Sunday 9th July '23.
+title: Open the first two Sunday's of the month. Traditional Roast 6th & 13th August
+  2023.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
