@@ -1,6 +1,6 @@
 ---
-title: Open the first two Sunday's of the month. Traditional Roast 6th & 13th August
-  2023.
+title: Sorry we are closed for a Sept holiday & a few refurbishments. If you would
+  like to book for Sunday 5th or 12th November please email us.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
