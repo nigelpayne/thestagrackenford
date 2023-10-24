@@ -1,6 +1,6 @@
 ---
-title: Sorry we are closed for a Sept holiday & a few refurbishments. If you would
-  like to book for Sunday 5th or 12th November please email us.
+title: We are open for Sunday 5th & 12th November please email us if you would like
+  to book a table.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
