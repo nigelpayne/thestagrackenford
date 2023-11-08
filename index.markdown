@@ -1,6 +1,6 @@
 ---
-title: We are open for Sunday 5th & 12th November please email us if you would like
-  to book a table.
+title: Open for Sunday lunch on 12th Nov, 3rd, 17th & 31st December. Please email
+  us if you would like to book a table. Thank you.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
