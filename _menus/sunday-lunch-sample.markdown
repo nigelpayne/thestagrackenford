@@ -4,8 +4,8 @@ date: 2022-10-15 11:19:00 +01:00
 ---
 
 ## Sunday Lunch **Sample Menu**
-### 2 courses £27
-#### Age 5 to `12 years £12
+### 2 courses £29
+#### Age 5 to `13 years £13 per head
 ##### Under 5 years no charge
 
 * ...
