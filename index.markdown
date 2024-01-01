@@ -1,6 +1,6 @@
 ---
-title: Open for Sunday lunch on 3rd, 17th & 31st December. Please email us if you
-  would like to book a table. Thank you.
+title: Our Best Wishes for 2024.  We are closed from 1st Jan for a winter shutdown
+  & to allow for further essential repair works @ 'The Stag'.
 date: 2019-10-30 09:48:00 +00:00
 permalink: "/"
 content-text: |2-
