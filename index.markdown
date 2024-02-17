@@ -1,5 +1,7 @@
 ---
 title: |-
+  16 February 2024
+
   Dear Friends and Customers,
 
   We just want to let you know that we have come to the decision that it’s time for our retirement! Oliver is very much looking forward to this next stage of life after 53 years of continuous employment.
