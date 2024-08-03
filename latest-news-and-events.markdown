@@ -2,6 +2,7 @@
 title: Latest news and events
 date: 2019-10-30 10:32:00 +00:00
 permalink: "/events/"
+published: false
 description: 
 layout: events
 ---

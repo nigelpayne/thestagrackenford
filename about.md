@@ -1,6 +1,7 @@
 ---
 title: Then and now
 permalink: "/about/"
+published: false
 then-image: "/uploads/the-stag-cellar-march-1955-square.jpg"
 then-text: The old beer cellar.
 now-image: "/uploads/the-stag-wood-paneling.jpg"
